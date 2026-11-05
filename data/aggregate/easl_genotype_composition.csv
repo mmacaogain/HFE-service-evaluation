@@ -1,0 +1,25 @@
+threshold_status,genotype,patient_count,stratum_patients,genotype_percent
+"EASL biochemical +
+(both thresholds)",C282Y Homozygous,824,2219,37.13384407390716
+"EASL biochemical +
+(both thresholds)",Compound heterozygote,386,2219,17.395223073456513
+"EASL biochemical +
+(both thresholds)",C282Y carrier,257,2219,11.581793600721046
+"EASL biochemical +
+(both thresholds)",H63D homozygote,105,2219,4.73186119873817
+"EASL biochemical +
+(both thresholds)",H63D carrier,262,2219,11.807120324470482
+"EASL biochemical +
+(both thresholds)",No mutations,385,2219,17.350157728706623
+"EASL biochemical -
+(not both thresholds)",C282Y Homozygous,415,7773,5.338993953428535
+"EASL biochemical -
+(not both thresholds)",Compound heterozygote,1033,7773,13.289592178052231
+"EASL biochemical -
+(not both thresholds)",C282Y carrier,1769,7773,22.75826579184356
+"EASL biochemical -
+(not both thresholds)",H63D homozygote,429,7773,5.5191045928213045
+"EASL biochemical -
+(not both thresholds)",H63D carrier,1588,7773,20.429692525408466
+"EASL biochemical -
+(not both thresholds)",No mutations,2539,7773,32.6643509584459

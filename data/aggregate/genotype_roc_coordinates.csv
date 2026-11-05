@@ -1,0 +1,2425 @@
+outcome,model,false_positive_rate,true_positive_rate
+all_positive,TSAT,0.0,0.0
+all_positive,TSAT,0.01,0.0875023041474654
+all_positive,TSAT,0.02,0.1729093701996928
+all_positive,TSAT,0.03,0.2283763440860215
+all_positive,TSAT,0.04,0.26576221198156685
+all_positive,TSAT,0.05,0.29233486943164366
+all_positive,TSAT,0.06,0.31867895545314934
+all_positive,TSAT,0.07,0.34235637480798775
+all_positive,TSAT,0.08,0.35964976958525346
+all_positive,TSAT,0.09,0.3794454685099847
+all_positive,TSAT,0.1,0.3969585253456222
+all_positive,TSAT,0.11,0.40952442396313365
+all_positive,TSAT,0.12,0.42257450076804914
+all_positive,TSAT,0.13,0.441115207373272
+all_positive,TSAT,0.14,0.45232104454685107
+all_positive,TSAT,0.15,0.4644124423963134
+all_positive,TSAT,0.16,0.4772718894009217
+all_positive,TSAT,0.17,0.49244055299539174
+all_positive,TSAT,0.18,0.5030353302611367
+all_positive,TSAT,0.19,0.516173579109063
+all_positive,TSAT,0.2,0.5284178187403994
+all_positive,TSAT,0.21,0.5414915514592935
+all_positive,TSAT,0.22,0.5496221198156683
+all_positive,TSAT,0.23,0.5591326164874552
+all_positive,TSAT,0.24,0.5655815668202765
+all_positive,TSAT,0.25,0.5770737327188941
+all_positive,TSAT,0.26,0.5867373271889402
+all_positive,TSAT,0.27,0.5936172920781215
+all_positive,TSAT,0.28,0.6018433179723502
+all_positive,TSAT,0.29,0.6115094726062468
+all_positive,TSAT,0.3,0.6227649769585254
+all_positive,TSAT,0.31,0.6304792626728111
+all_positive,TSAT,0.32,0.6368663594470046
+all_positive,TSAT,0.33,0.6461462365591398
+all_positive,TSAT,0.34,0.6569633530831688
+all_positive,TSAT,0.35000000000000003,0.6636379928315412
+all_positive,TSAT,0.36,0.6690506912442397
+all_positive,TSAT,0.37,0.6788737327188941
+all_positive,TSAT,0.38,0.6890937019969278
+all_positive,TSAT,0.39,0.6998463901689708
+all_positive,TSAT,0.4,0.706605222734255
+all_positive,TSAT,0.41000000000000003,0.7126328725038407
+all_positive,TSAT,0.42,0.7213394777265747
+all_positive,TSAT,0.43,0.7265222734254992
+all_positive,TSAT,0.44,0.7361338112305854
+all_positive,TSAT,0.45,0.7428323289613612
+all_positive,TSAT,0.46,0.7518358569234146
+all_positive,TSAT,0.47000000000000003,0.7578029405310511
+all_positive,TSAT,0.48,0.7665478750640041
+all_positive,TSAT,0.49,0.7775729646697389
+all_positive,TSAT,0.5,0.784331797235023
+all_positive,TSAT,0.51,0.7894639016897081
+all_positive,TSAT,0.52,0.7945560675883258
+all_positive,TSAT,0.53,0.7990901177675371
+all_positive,TSAT,0.54,0.8055883256528419
+all_positive,TSAT,0.55,0.812321044546851
+all_positive,TSAT,0.56,0.8162027649769585
+all_positive,TSAT,0.5700000000000001,0.8219809523809525
+all_positive,TSAT,0.58,0.8281278033794163
+all_positive,TSAT,0.59,0.832258064516129
+all_positive,TSAT,0.6,0.8370302099334357
+all_positive,TSAT,0.61,0.8417818740399385
+all_positive,TSAT,0.62,0.8470261136712749
+all_positive,TSAT,0.63,0.8539123027510125
+all_positive,TSAT,0.64,0.8574500768049155
+all_positive,TSAT,0.65,0.8626958525345622
+all_positive,TSAT,0.66,0.868826420890937
+all_positive,TSAT,0.67,0.8770725806451614
+all_positive,TSAT,0.68,0.8829370199692781
+all_positive,TSAT,0.6900000000000001,0.8866359447004608
+all_positive,TSAT,0.7000000000000001,0.8909185867895545
+all_positive,TSAT,0.71,0.8971606319947333
+all_positive,TSAT,0.72,0.9008249656399062
+all_positive,TSAT,0.73,0.9043120839733743
+all_positive,TSAT,0.74,0.90752688172043
+all_positive,TSAT,0.75,0.9099533481253912
+all_positive,TSAT,0.76,0.9151041474654378
+all_positive,TSAT,0.77,0.919663253114866
+all_positive,TSAT,0.78,0.9244239631336404
+all_positive,TSAT,0.79,0.9291233998975935
+all_positive,TSAT,0.8,0.9339170506912442
+all_positive,TSAT,0.81,0.9371175706014415
+all_positive,TSAT,0.8200000000000001,0.9419030337941626
+all_positive,TSAT,0.8300000000000001,0.9452459153749478
+all_positive,TSAT,0.84,0.9484854070660523
+all_positive,TSAT,0.85,0.9533486943164363
+all_positive,TSAT,0.86,0.9571131592421915
+all_positive,TSAT,0.87,0.9593489503328212
+all_positive,TSAT,0.88,0.9648648233486943
+all_positive,TSAT,0.89,0.9671269841269842
+all_positive,TSAT,0.9,0.9718010752688172
+all_positive,TSAT,0.91,0.9746240947992101
+all_positive,TSAT,0.92,0.9761204301075269
+all_positive,TSAT,0.93,0.9793026113671276
+all_positive,TSAT,0.9400000000000001,0.9815027430326969
+all_positive,TSAT,0.9500000000000001,0.9846937019969279
+all_positive,TSAT,0.96,0.9865376344086021
+all_positive,TSAT,0.97,0.9882183717357912
+all_positive,TSAT,0.98,0.9912023131833378
+all_positive,TSAT,0.99,0.9951216931216931
+all_positive,TSAT,1.0,1.0
+all_positive,Ferritin,0.0,0.0
+all_positive,Ferritin,0.01,0.02270660522273425
+all_positive,Ferritin,0.02,0.04315207373271892
+all_positive,Ferritin,0.03,0.06356682027649765
+all_positive,Ferritin,0.04,0.0807434715821812
+all_positive,Ferritin,0.05,0.09701777485187621
+all_positive,Ferritin,0.06,0.11789349718381974
+all_positive,Ferritin,0.07,0.1362119815668203
+all_positive,Ferritin,0.08,0.1541792114695341
+all_positive,Ferritin,0.09,0.17210138248847925
+all_positive,Ferritin,0.1,0.18750493745885458
+all_positive,Ferritin,0.11,0.20479447004608295
+all_positive,Ferritin,0.12,0.22285538731621682
+all_positive,Ferritin,0.13,0.23642191500256018
+all_positive,Ferritin,0.14,0.2484342037890426
+all_positive,Ferritin,0.15,0.2595468509984639
+all_positive,Ferritin,0.16,0.269921146953405
+all_positive,Ferritin,0.17,0.2813899495281984
+all_positive,Ferritin,0.18,0.2932086899275839
+all_positive,Ferritin,0.19,0.3035775729646698
+all_positive,Ferritin,0.2,0.31657962109575016
+all_positive,Ferritin,0.21,0.32582334869431645
+all_positive,Ferritin,0.22,0.3376359447004608
+all_positive,Ferritin,0.23,0.34883717357910915
+all_positive,Ferritin,0.24,0.3610691244239631
+all_positive,Ferritin,0.25,0.3712365591397849
+all_positive,Ferritin,0.26,0.3899600614439325
+all_positive,Ferritin,0.27,0.40386175115207384
+all_positive,Ferritin,0.28,0.4146175115207373
+all_positive,Ferritin,0.29,0.43231797235023045
+all_positive,Ferritin,0.3,0.4398348694316436
+all_positive,Ferritin,0.31,0.4540221198156682
+all_positive,Ferritin,0.32,0.4690281618023553
+all_positive,Ferritin,0.33,0.48141781874039935
+all_positive,Ferritin,0.34,0.4967199180747568
+all_positive,Ferritin,0.35000000000000003,0.5077634408602152
+all_positive,Ferritin,0.36,0.5169769585253456
+all_positive,Ferritin,0.37,0.5287764976958526
+all_positive,Ferritin,0.38,0.5378486943164362
+all_positive,Ferritin,0.39,0.5503809523809524
+all_positive,Ferritin,0.4,0.5604546850998464
+all_positive,Ferritin,0.41000000000000003,0.5676109481915934
+all_positive,Ferritin,0.42,0.5795811571940604
+all_positive,Ferritin,0.43,0.586394162826421
+all_positive,Ferritin,0.44,0.5960086021505376
+all_positive,Ferritin,0.45,0.6062611367127496
+all_positive,Ferritin,0.46,0.6142463901689709
+all_positive,Ferritin,0.47000000000000003,0.6213164362519201
+all_positive,Ferritin,0.48,0.6311336405529954
+all_positive,Ferritin,0.49,0.6403061955965181
+all_positive,Ferritin,0.5,0.6467741935483872
+all_positive,Ferritin,0.51,0.6527622119815668
+all_positive,Ferritin,0.52,0.6615801331285202
+all_positive,Ferritin,0.53,0.6717340355497037
+all_positive,Ferritin,0.54,0.6791783717357911
+all_positive,Ferritin,0.55,0.6861827956989247
+all_positive,Ferritin,0.56,0.6949185867895548
+all_positive,Ferritin,0.5700000000000001,0.6998440408421432
+all_positive,Ferritin,0.58,0.7070562211981567
+all_positive,Ferritin,0.59,0.7138443420378904
+all_positive,Ferritin,0.6,0.7230897520298442
+all_positive,Ferritin,0.61,0.7289047619047618
+all_positive,Ferritin,0.62,0.7368218125960062
+all_positive,Ferritin,0.63,0.7417099846390169
+all_positive,Ferritin,0.64,0.7437849462365592
+all_positive,Ferritin,0.65,0.7511981566820276
+all_positive,Ferritin,0.66,0.7588976958525346
+all_positive,Ferritin,0.67,0.7645571847507332
+all_positive,Ferritin,0.68,0.7724247311827958
+all_positive,Ferritin,0.6900000000000001,0.7754911674347158
+all_positive,Ferritin,0.7000000000000001,0.7845605052056664
+all_positive,Ferritin,0.71,0.7914980798771121
+all_positive,Ferritin,0.72,0.7969130568356374
+all_positive,Ferritin,0.73,0.8033093701996927
+all_positive,Ferritin,0.74,0.8121187916026625
+all_positive,Ferritin,0.75,0.8206093189964158
+all_positive,Ferritin,0.76,0.8259416282642089
+all_positive,Ferritin,0.77,0.8350273425499232
+all_positive,Ferritin,0.78,0.844699436763953
+all_positive,Ferritin,0.79,0.8502987711213519
+all_positive,Ferritin,0.8,0.8603256528417819
+all_positive,Ferritin,0.81,0.8659505214649528
+all_positive,Ferritin,0.8200000000000001,0.875035330261137
+all_positive,Ferritin,0.8300000000000001,0.8844955837173579
+all_positive,Ferritin,0.84,0.8905818740399385
+all_positive,Ferritin,0.85,0.894863031233999
+all_positive,Ferritin,0.86,0.9029226830517152
+all_positive,Ferritin,0.87,0.911932411674347
+all_positive,Ferritin,0.88,0.9191305683563747
+all_positive,Ferritin,0.89,0.9272211173094027
+all_positive,Ferritin,0.9,0.9326779313876088
+all_positive,Ferritin,0.91,0.9388943932411674
+all_positive,Ferritin,0.92,0.944145709896862
+all_positive,Ferritin,0.93,0.9476048387096774
+all_positive,Ferritin,0.9400000000000001,0.954047107014849
+all_positive,Ferritin,0.9500000000000001,0.9618202764976962
+all_positive,Ferritin,0.96,0.9706789554531491
+all_positive,Ferritin,0.97,0.9766720430107526
+all_positive,Ferritin,0.98,0.9832489660876758
+all_positive,Ferritin,0.99,0.9892749615975424
+all_positive,Ferritin,1.0,1.0
+all_positive,Age,0.0,0.0003072196620583
+all_positive,Age,0.01,0.012428571428571424
+all_positive,Age,0.02,0.024242703533026048
+all_positive,Age,0.03,0.03329185867895546
+all_positive,Age,0.04,0.0457757296466973
+all_positive,Age,0.05,0.05669738863287258
+all_positive,Age,0.06,0.074189452124936
+all_positive,Age,0.07,0.08291705069124418
+all_positive,Age,0.08,0.09194470046082949
+all_positive,Age,0.09,0.10369636456733228
+all_positive,Age,0.1,0.11127803379416278
+all_positive,Age,0.11,0.12053302611367125
+all_positive,Age,0.12,0.13147772657450077
+all_positive,Age,0.13,0.1432493599590374
+all_positive,Age,0.14,0.15481874039938553
+all_positive,Age,0.15,0.16432795698924724
+all_positive,Age,0.16,0.1745806451612903
+all_positive,Age,0.17,0.18431336405529966
+all_positive,Age,0.18,0.1955330261136713
+all_positive,Age,0.19,0.21145622119815674
+all_positive,Age,0.2,0.22422119815668198
+all_positive,Age,0.21,0.23636559139784943
+all_positive,Age,0.22,0.24524994513934603
+all_positive,Age,0.23,0.2536848438300051
+all_positive,Age,0.24,0.2637665130568356
+all_positive,Age,0.25,0.2768378319069563
+all_positive,Age,0.26,0.29060368663594477
+all_positive,Age,0.27,0.29980235535074246
+all_positive,Age,0.28,0.30965745007680495
+all_positive,Age,0.29,0.32325499231950844
+all_positive,Age,0.3,0.3364285714285714
+all_positive,Age,0.31,0.34940168970814134
+all_positive,Age,0.32,0.35764601467827273
+all_positive,Age,0.33,0.37113056835637487
+all_positive,Age,0.34,0.38166308243727604
+all_positive,Age,0.35000000000000003,0.395188940092166
+all_positive,Age,0.36,0.40377675371223753
+all_positive,Age,0.37,0.41403072196620594
+all_positive,Age,0.38,0.42359359227561993
+all_positive,Age,0.39,0.4317941628264209
+all_positive,Age,0.4,0.4421198156682028
+all_positive,Age,0.41000000000000003,0.44939170506912446
+all_positive,Age,0.42,0.460589861751152
+all_positive,Age,0.43,0.46828955453149
+all_positive,Age,0.44,0.4800860215053764
+all_positive,Age,0.45,0.48784946236559135
+all_positive,Age,0.46,0.49601843317972344
+all_positive,Age,0.47000000000000003,0.5071251920122888
+all_positive,Age,0.48,0.5170696830051669
+all_positive,Age,0.49,0.5249964157706094
+all_positive,Age,0.5,0.5347158218125961
+all_positive,Age,0.51,0.5466697388632872
+all_positive,Age,0.52,0.5563748079877112
+all_positive,Age,0.53,0.5688348694316436
+all_positive,Age,0.54,0.5811643625192013
+all_positive,Age,0.55,0.5909557945041817
+all_positive,Age,0.56,0.6018402457757297
+all_positive,Age,0.5700000000000001,0.612592375366569
+all_positive,Age,0.58,0.6224270353302611
+all_positive,Age,0.59,0.6308328016069952
+all_positive,Age,0.6,0.6391807475678443
+all_positive,Age,0.61,0.6487139016897082
+all_positive,Age,0.62,0.6545751152073732
+all_positive,Age,0.63,0.6631231950844854
+all_positive,Age,0.64,0.6721433691756272
+all_positive,Age,0.65,0.6831912442396313
+all_positive,Age,0.66,0.6947864823348695
+all_positive,Age,0.67,0.7046059907834102
+all_positive,Age,0.68,0.7121685319289006
+all_positive,Age,0.6900000000000001,0.7204301075268817
+all_positive,Age,0.7000000000000001,0.7284178187403993
+all_positive,Age,0.71,0.7377489576475752
+all_positive,Age,0.72,0.7448561187916026
+all_positive,Age,0.73,0.7548827444956477
+all_positive,Age,0.74,0.7654746543778802
+all_positive,Age,0.75,0.7802611367127497
+all_positive,Age,0.76,0.789247311827957
+all_positive,Age,0.77,0.7992172725721113
+all_positive,Age,0.78,0.8084976958525346
+all_positive,Age,0.79,0.8178529185867895
+all_positive,Age,0.8,0.829247311827957
+all_positive,Age,0.81,0.839125960061444
+all_positive,Age,0.8200000000000001,0.8466584741423451
+all_positive,Age,0.8300000000000001,0.8558010752688172
+all_positive,Age,0.84,0.8639139784946236
+all_positive,Age,0.85,0.8680760368663595
+all_positive,Age,0.86,0.8764976958525346
+all_positive,Age,0.87,0.8850148489503328
+all_positive,Age,0.88,0.8927567844342038
+all_positive,Age,0.89,0.8981561699948797
+all_positive,Age,0.9,0.9066008338819399
+all_positive,Age,0.91,0.9151109062980031
+all_positive,Age,0.92,0.9226543778801845
+all_positive,Age,0.93,0.9311449052739376
+all_positive,Age,0.9400000000000001,0.937689708141321
+all_positive,Age,0.9500000000000001,0.9450819252432158
+all_positive,Age,0.96,0.9524915514592933
+all_positive,Age,0.97,0.9625203715894961
+all_positive,Age,0.98,0.9722089093701998
+all_positive,Age,0.99,0.9900568356374809
+all_positive,Age,1.0,1.0
+all_positive,Sex,0.0,0.0
+all_positive,Sex,0.01,0.0104454685099846
+all_positive,Sex,0.02,0.01779109062980025
+all_positive,Sex,0.03,0.02668663594470042
+all_positive,Sex,0.04,0.039410138248847926
+all_positive,Sex,0.05,0.0522273425499231
+all_positive,Sex,0.06,0.062058371735791
+all_positive,Sex,0.07,0.0710814132104455
+all_positive,Sex,0.08,0.07816487455197131
+all_positive,Sex,0.09,0.0855289298515105
+all_positive,Sex,0.1,0.09606758832565279
+all_positive,Sex,0.11,0.1067086533538146
+all_positive,Sex,0.12,0.1145929339477726
+all_positive,Sex,0.13,0.12640783410138245
+all_positive,Sex,0.14,0.1381689708141322
+all_positive,Sex,0.15,0.1465437788018433
+all_positive,Sex,0.16,0.1600614439324116
+all_positive,Sex,0.17,0.17155453149001554
+all_positive,Sex,0.18,0.18223963133640553
+all_positive,Sex,0.19,0.1929339477726574
+all_positive,Sex,0.2,0.203379416282642
+all_positive,Sex,0.21,0.21476344086021507
+all_positive,Sex,0.22,0.2252985151049667
+all_positive,Sex,0.23,0.238857910906298
+all_positive,Sex,0.24,0.2497695852534562
+all_positive,Sex,0.25,0.2583717357910906
+all_positive,Sex,0.26,0.2697388632872504
+all_positive,Sex,0.27,0.2824224270353303
+all_positive,Sex,0.28,0.2953855606758834
+all_positive,Sex,0.29,0.3062980030721966
+all_positive,Sex,0.3,0.31554531490015364
+all_positive,Sex,0.31,0.3268817204301075
+all_positive,Sex,0.32,0.3354838709677419
+all_positive,Sex,0.33,0.3465437788018433
+all_positive,Sex,0.34,0.3602058371735792
+all_positive,Sex,0.35000000000000003,0.3726574500768049
+all_positive,Sex,0.36,0.38456528417818736
+all_positive,Sex,0.37,0.3986697388632874
+all_positive,Sex,0.38,0.40825499231950846
+all_positive,Sex,0.39,0.4205837173579109
+all_positive,Sex,0.4,0.4363748079877112
+all_positive,Sex,0.41000000000000003,0.4475975422427042
+all_positive,Sex,0.42,0.4599078341013825
+all_positive,Sex,0.43,0.4675883256528418
+all_positive,Sex,0.44,0.47405837173579113
+all_positive,Sex,0.45,0.4817204301075269
+all_positive,Sex,0.46,0.48953302611367133
+all_positive,Sex,0.47000000000000003,0.5004608294930876
+all_positive,Sex,0.48,0.5056835637480799
+all_positive,Sex,0.49,0.5169247311827957
+all_positive,Sex,0.5,0.5253456221198156
+all_positive,Sex,0.51,0.5346881720430108
+all_positive,Sex,0.52,0.5458248847926267
+all_positive,Sex,0.53,0.5536804915514593
+all_positive,Sex,0.54,0.5646697388632872
+all_positive,Sex,0.55,0.5714285714285714
+all_positive,Sex,0.56,0.5769585253456221
+all_positive,Sex,0.5700000000000001,0.585694316436252
+all_positive,Sex,0.58,0.5938556067588325
+all_positive,Sex,0.59,0.6052616487455197
+all_positive,Sex,0.6,0.61321044546851
+all_positive,Sex,0.61,0.6202826420890938
+all_positive,Sex,0.62,0.6277588325652842
+all_positive,Sex,0.63,0.6356881720430108
+all_positive,Sex,0.64,0.6497695852534562
+all_positive,Sex,0.65,0.6558269329237071
+all_positive,Sex,0.66,0.6648233486943165
+all_positive,Sex,0.67,0.6762649769585254
+all_positive,Sex,0.68,0.684268305171531
+all_positive,Sex,0.6900000000000001,0.6954162826420893
+all_positive,Sex,0.7000000000000001,0.7057910906298004
+all_positive,Sex,0.71,0.7134109062980031
+all_positive,Sex,0.72,0.7222734254992319
+all_positive,Sex,0.73,0.7324116743471583
+all_positive,Sex,0.74,0.7424516129032257
+all_positive,Sex,0.75,0.7539170506912443
+all_positive,Sex,0.76,0.765284178187404
+all_positive,Sex,0.77,0.7754224270353303
+all_positive,Sex,0.78,0.784331797235023
+all_positive,Sex,0.79,0.7923026113671275
+all_positive,Sex,0.8,0.7988940092165899
+all_positive,Sex,0.81,0.8033794162826421
+all_positive,Sex,0.8200000000000001,0.8094654377880185
+all_positive,Sex,0.8300000000000001,0.820909370199693
+all_positive,Sex,0.84,0.8321720430107526
+all_positive,Sex,0.85,0.840552995391705
+all_positive,Sex,0.86,0.8492350230414748
+all_positive,Sex,0.87,0.8632872503840245
+all_positive,Sex,0.88,0.8714408602150537
+all_positive,Sex,0.89,0.8817173579109063
+all_positive,Sex,0.9,0.8924116743471582
+all_positive,Sex,0.91,0.9055668202764983
+all_positive,Sex,0.92,0.9145929339477726
+all_positive,Sex,0.93,0.9262672811059908
+all_positive,Sex,0.9400000000000001,0.9356415770609321
+all_positive,Sex,0.9500000000000001,0.9503686635944703
+all_positive,Sex,0.96,0.9609831029185868
+all_positive,Sex,0.97,0.9682150537634413
+all_positive,Sex,0.98,0.9775729646697388
+all_positive,Sex,0.99,0.9895821812596006
+all_positive,Sex,1.0,1.0
+all_positive,Family history,0.0,0.0
+all_positive,Family history,0.01,0.01133947772657445
+all_positive,Family history,0.02,0.021938556067588294
+all_positive,Family history,0.03,0.0304147465437788
+all_positive,Family history,0.04,0.04382181259600609
+all_positive,Family history,0.05,0.05454685099846385
+all_positive,Family history,0.06,0.07042396313364056
+all_positive,Family history,0.07,0.08298719918074753
+all_positive,Family history,0.08,0.09378801843317969
+all_positive,Family history,0.09,0.1053763440860215
+all_positive,Family history,0.1,0.11537634408602149
+all_positive,Family history,0.11,0.12934101382488483
+all_positive,Family history,0.12,0.1450076804915514
+all_positive,Family history,0.13,0.15695442908346133
+all_positive,Family history,0.14,0.172645161290323
+all_positive,Family history,0.15,0.18627496159754223
+all_positive,Family history,0.16,0.1993855606758832
+all_positive,Family history,0.17,0.2132104454685099
+all_positive,Family history,0.18,0.22726881720430117
+all_positive,Family history,0.19,0.2408602150537634
+all_positive,Family history,0.2,0.2543778801843318
+all_positive,Family history,0.21,0.2680660522273426
+all_positive,Family history,0.22,0.28095391705069117
+all_positive,Family history,0.23,0.2923635432667691
+all_positive,Family history,0.24,0.30558525345622134
+all_positive,Family history,0.25,0.3170250896057348
+all_positive,Family history,0.26,0.3308038914490528
+all_positive,Family history,0.27,0.3462365591397849
+all_positive,Family history,0.28,0.36144188428059393
+all_positive,Family history,0.29,0.3748079877112135
+all_positive,Family history,0.3,0.392626728110599
+all_positive,Family history,0.31,0.4077127496159754
+all_positive,Family history,0.32,0.422336917562724
+all_positive,Family history,0.33,0.4304193548387097
+all_positive,Family history,0.34,0.4371735791090629
+all_positive,Family history,0.35000000000000003,0.4473118279569892
+all_positive,Family history,0.36,0.45627444956477214
+all_positive,Family history,0.37,0.4644654377880185
+all_positive,Family history,0.38,0.4721966205837173
+all_positive,Family history,0.39,0.4783410138248848
+all_positive,Family history,0.4,0.4848335893497184
+all_positive,Family history,0.41000000000000003,0.4915514592933948
+all_positive,Family history,0.42,0.4989247311827957
+all_positive,Family history,0.43,0.5041674347158218
+all_positive,Family history,0.44,0.5117296466973887
+all_positive,Family history,0.45,0.5227265745007681
+all_positive,Family history,0.46,0.5317972350230414
+all_positive,Family history,0.47000000000000003,0.5403993855606759
+all_positive,Family history,0.48,0.5486943164362519
+all_positive,Family history,0.49,0.5560675883256528
+all_positive,Family history,0.5,0.5660522273425499
+all_positive,Family history,0.51,0.5781874039938556
+all_positive,Family history,0.52,0.581615975422427
+all_positive,Family history,0.53,0.5877112135176651
+all_positive,Family history,0.54,0.5955668202764978
+all_positive,Family history,0.55,0.6069687660010241
+all_positive,Family history,0.56,0.6181136712749619
+all_positive,Family history,0.5700000000000001,0.6258064516129033
+all_positive,Family history,0.58,0.6330547875064003
+all_positive,Family history,0.59,0.6430814132104454
+all_positive,Family history,0.6,0.6512442396313364
+all_positive,Family history,0.61,0.6622150537634409
+all_positive,Family history,0.62,0.667674347158218
+all_positive,Family history,0.63,0.6780337941628264
+all_positive,Family history,0.64,0.6830230414746544
+all_positive,Family history,0.65,0.6893292370711726
+all_positive,Family history,0.66,0.6998463901689708
+all_positive,Family history,0.67,0.7084485407066052
+all_positive,Family history,0.68,0.7164362519201228
+all_positive,Family history,0.6900000000000001,0.7248525345622121
+all_positive,Family history,0.7000000000000001,0.7308755760368664
+all_positive,Family history,0.71,0.7397250384024577
+all_positive,Family history,0.72,0.7497757296466974
+all_positive,Family history,0.73,0.7607857142857143
+all_positive,Family history,0.74,0.7680491551459293
+all_positive,Family history,0.75,0.7719918074756785
+all_positive,Family history,0.76,0.7815668202764977
+all_positive,Family history,0.77,0.7895545314900153
+all_positive,Family history,0.78,0.7984639016897082
+all_positive,Family history,0.79,0.8095238095238095
+all_positive,Family history,0.8,0.8156067588325653
+all_positive,Family history,0.81,0.8248625192012289
+all_positive,Family history,0.8200000000000001,0.834715821812596
+all_positive,Family history,0.8300000000000001,0.8436436251920125
+all_positive,Family history,0.84,0.8502119815668203
+all_positive,Family history,0.85,0.860762928827445
+all_positive,Family history,0.86,0.871889400921659
+all_positive,Family history,0.87,0.8798771121351766
+all_positive,Family history,0.88,0.8875576036866359
+all_positive,Family history,0.89,0.8955453149001537
+all_positive,Family history,0.9,0.9041321044546851
+all_positive,Family history,0.91,0.9112135176651306
+all_positive,Family history,0.92,0.9177757296466974
+all_positive,Family history,0.93,0.9280348182283665
+all_positive,Family history,0.9400000000000001,0.9379416282642088
+all_positive,Family history,0.9500000000000001,0.9471018945212494
+all_positive,Family history,0.96,0.9546420890937019
+all_positive,Family history,0.97,0.9646697388632872
+all_positive,Family history,0.98,0.976036866359447
+all_positive,Family history,0.99,0.9865939580133128
+all_positive,Family history,1.0,1.0
+all_positive,All five combined,0.0,0.0009216589861751
+all_positive,All five combined,0.01,0.13221812596006147
+all_positive,All five combined,0.02,0.21053149001536103
+all_positive,All five combined,0.03,0.26334562211981566
+all_positive,All five combined,0.04,0.30581464413722476
+all_positive,All five combined,0.05,0.33633640552995386
+all_positive,All five combined,0.06,0.3675760368663595
+all_positive,All five combined,0.07,0.39358218125960076
+all_positive,All five combined,0.08,0.4091059907834101
+all_positive,All five combined,0.09,0.4287956989247312
+all_positive,All five combined,0.1,0.44675883256528426
+all_positive,All five combined,0.11,0.4623717357910907
+all_positive,All five combined,0.12,0.4792503840245776
+all_positive,All five combined,0.13,0.494136712749616
+all_positive,All five combined,0.14,0.5077566820276498
+all_positive,All five combined,0.15,0.5237378392217102
+all_positive,All five combined,0.16,0.5354162826420892
+all_positive,All five combined,0.17,0.5482058371735793
+all_positive,All five combined,0.18,0.5598955453149002
+all_positive,All five combined,0.19,0.5724215053763442
+all_positive,All five combined,0.2,0.5835739887352791
+all_positive,All five combined,0.21,0.598804915514593
+all_positive,All five combined,0.22,0.6069139784946237
+all_positive,All five combined,0.23,0.6196513056835637
+all_positive,All five combined,0.24,0.6258009899300222
+all_positive,All five combined,0.25,0.6352918586789555
+all_positive,All five combined,0.26,0.6465301964588892
+all_positive,All five combined,0.27,0.652603467193329
+all_positive,All five combined,0.28,0.6608172043010756
+all_positive,All five combined,0.29,0.6712281105990784
+all_positive,All five combined,0.3,0.682036866359447
+all_positive,All five combined,0.31,0.6906943164362519
+all_positive,All five combined,0.32,0.7027741935483871
+all_positive,All five combined,0.33,0.7105413210445468
+all_positive,All five combined,0.34,0.7175860215053763
+all_positive,All five combined,0.35000000000000003,0.7254761904761905
+all_positive,All five combined,0.36,0.7308989247311828
+all_positive,All five combined,0.37,0.7345477287689269
+all_positive,All five combined,0.38,0.7407660010240655
+all_positive,All five combined,0.39,0.7473456221198157
+all_positive,All five combined,0.4,0.7508294930875575
+all_positive,All five combined,0.41000000000000003,0.7590337941628266
+all_positive,All five combined,0.42,0.7660860215053764
+all_positive,All five combined,0.43,0.7719281105990784
+all_positive,All five combined,0.44,0.7769216589861752
+all_positive,All five combined,0.45,0.785213133640553
+all_positive,All five combined,0.46,0.7945335381464415
+all_positive,All five combined,0.47000000000000003,0.7987534562211982
+all_positive,All five combined,0.48,0.8020487162606977
+all_positive,All five combined,0.49,0.8079562211981567
+all_positive,All five combined,0.5,0.8147772657450078
+all_positive,All five combined,0.51,0.8203717357910907
+all_positive,All five combined,0.52,0.8256286738351254
+all_positive,All five combined,0.53,0.8331844342037891
+all_positive,All five combined,0.54,0.8359662058371736
+all_positive,All five combined,0.55,0.84400389932648
+all_positive,All five combined,0.56,0.8468489503328213
+all_positive,All five combined,0.5700000000000001,0.852831797235023
+all_positive,All five combined,0.58,0.8579231950844853
+all_positive,All five combined,0.59,0.8607719991222296
+all_positive,All five combined,0.6,0.8650274303269695
+all_positive,All five combined,0.61,0.8689557603686635
+all_positive,All five combined,0.62,0.8751367127496159
+all_positive,All five combined,0.63,0.879978494623656
+all_positive,All five combined,0.64,0.8862119815668202
+all_positive,All five combined,0.65,0.8898847926267281
+all_positive,All five combined,0.66,0.8954549923195085
+all_positive,All five combined,0.67,0.8993529953917051
+all_positive,All five combined,0.68,0.9035145929339478
+all_positive,All five combined,0.6900000000000001,0.9066009216589862
+all_positive,All five combined,0.7000000000000001,0.9106367825722664
+all_positive,All five combined,0.71,0.9129969278033794
+all_positive,All five combined,0.72,0.918182376763022
+all_positive,All five combined,0.73,0.9207703533026113
+all_positive,All five combined,0.74,0.9231081852095678
+all_positive,All five combined,0.75,0.9271121351766515
+all_positive,All five combined,0.76,0.929779416282642
+all_positive,All five combined,0.77,0.9328466612451433
+all_positive,All five combined,0.78,0.9354292942983645
+all_positive,All five combined,0.79,0.938795084485407
+all_positive,All five combined,0.8,0.9426605222734254
+all_positive,All five combined,0.81,0.9456971691902568
+all_positive,All five combined,0.8200000000000001,0.949425806451613
+all_positive,All five combined,0.8300000000000001,0.9520862578281932
+all_positive,All five combined,0.84,0.9559044205495818
+all_positive,All five combined,0.85,0.9601817716333845
+all_positive,All five combined,0.86,0.9627949760549382
+all_positive,All five combined,0.87,0.9666328725038403
+all_positive,All five combined,0.88,0.9683165979464792
+all_positive,All five combined,0.89,0.9706743471582182
+all_positive,All five combined,0.9,0.973321812596006
+all_positive,All five combined,0.91,0.9751121351766513
+all_positive,All five combined,0.92,0.9767995903737838
+all_positive,All five combined,0.93,0.9784498719918074
+all_positive,All five combined,0.9400000000000001,0.9807566381391265
+all_positive,All five combined,0.9500000000000001,0.9838461538461539
+all_positive,All five combined,0.96,0.9857695852534563
+all_positive,All five combined,0.97,0.9882193548387097
+all_positive,All five combined,0.98,0.9904086021505376
+all_positive,All five combined,0.99,0.9938579109062979
+all_positive,All five combined,1.0,1.0
+c282y_homozygous_with_carriers,TSAT,0.0,0.0
+c282y_homozygous_with_carriers,TSAT,0.01,0.18290476190476196
+c282y_homozygous_with_carriers,TSAT,0.02,0.3730317460317464
+c282y_homozygous_with_carriers,TSAT,0.03,0.48733928571428603
+c282y_homozygous_with_carriers,TSAT,0.04,0.553873015873016
+c282y_homozygous_with_carriers,TSAT,0.05,0.5902976190476191
+c282y_homozygous_with_carriers,TSAT,0.06,0.6242000000000001
+c282y_homozygous_with_carriers,TSAT,0.07,0.6466587301587302
+c282y_homozygous_with_carriers,TSAT,0.08,0.6692698412698416
+c282y_homozygous_with_carriers,TSAT,0.09,0.6858138528138529
+c282y_homozygous_with_carriers,TSAT,0.1,0.7055753968253969
+c282y_homozygous_with_carriers,TSAT,0.11,0.7133506235827665
+c282y_homozygous_with_carriers,TSAT,0.12,0.7290812324929972
+c282y_homozygous_with_carriers,TSAT,0.13,0.7476190476190476
+c282y_homozygous_with_carriers,TSAT,0.14,0.7557730158730159
+c282y_homozygous_with_carriers,TSAT,0.15,0.7617658730158731
+c282y_homozygous_with_carriers,TSAT,0.16,0.7764126984126986
+c282y_homozygous_with_carriers,TSAT,0.17,0.7856792328042328
+c282y_homozygous_with_carriers,TSAT,0.18,0.7962507936507937
+c282y_homozygous_with_carriers,TSAT,0.19,0.8007936507936508
+c282y_homozygous_with_carriers,TSAT,0.2,0.8061375661375663
+c282y_homozygous_with_carriers,TSAT,0.21,0.8170517961570594
+c282y_homozygous_with_carriers,TSAT,0.22,0.8223220899470899
+c282y_homozygous_with_carriers,TSAT,0.23,0.8253968253968254
+c282y_homozygous_with_carriers,TSAT,0.24,0.8333333333333334
+c282y_homozygous_with_carriers,TSAT,0.25,0.8365079365079365
+c282y_homozygous_with_carriers,TSAT,0.26,0.8420634920634921
+c282y_homozygous_with_carriers,TSAT,0.27,0.8459748677248677
+c282y_homozygous_with_carriers,TSAT,0.28,0.8493577533577533
+c282y_homozygous_with_carriers,TSAT,0.29,0.8569007936507936
+c282y_homozygous_with_carriers,TSAT,0.3,0.8605809523809524
+c282y_homozygous_with_carriers,TSAT,0.31,0.8653578042328043
+c282y_homozygous_with_carriers,TSAT,0.32,0.8737222222222223
+c282y_homozygous_with_carriers,TSAT,0.33,0.876984126984127
+c282y_homozygous_with_carriers,TSAT,0.34,0.8801587301587301
+c282y_homozygous_with_carriers,TSAT,0.35000000000000003,0.8863122605363984
+c282y_homozygous_with_carriers,TSAT,0.36,0.8904761904761904
+c282y_homozygous_with_carriers,TSAT,0.37,0.8962526455026455
+c282y_homozygous_with_carriers,TSAT,0.38,0.9018203842940685
+c282y_homozygous_with_carriers,TSAT,0.39,0.904739417989418
+c282y_homozygous_with_carriers,TSAT,0.4,0.9063492063492063
+c282y_homozygous_with_carriers,TSAT,0.41000000000000003,0.9095238095238096
+c282y_homozygous_with_carriers,TSAT,0.42,0.9111111111111112
+c282y_homozygous_with_carriers,TSAT,0.43,0.9174682539682539
+c282y_homozygous_with_carriers,TSAT,0.44,0.9206349206349206
+c282y_homozygous_with_carriers,TSAT,0.45,0.9262032553134248
+c282y_homozygous_with_carriers,TSAT,0.46,0.9274944444444445
+c282y_homozygous_with_carriers,TSAT,0.47000000000000003,0.9277777777777778
+c282y_homozygous_with_carriers,TSAT,0.48,0.9293650793650794
+c282y_homozygous_with_carriers,TSAT,0.49,0.9343199735449734
+c282y_homozygous_with_carriers,TSAT,0.5,0.9357142857142856
+c282y_homozygous_with_carriers,TSAT,0.51,0.9395138248847925
+c282y_homozygous_with_carriers,TSAT,0.52,0.9415562169312168
+c282y_homozygous_with_carriers,TSAT,0.53,0.942063492063492
+c282y_homozygous_with_carriers,TSAT,0.54,0.9444444444444444
+c282y_homozygous_with_carriers,TSAT,0.55,0.9483353174603174
+c282y_homozygous_with_carriers,TSAT,0.56,0.95
+c282y_homozygous_with_carriers,TSAT,0.5700000000000001,0.9530806878306879
+c282y_homozygous_with_carriers,TSAT,0.58,0.9542622826908541
+c282y_homozygous_with_carriers,TSAT,0.59,0.9547619047619048
+c282y_homozygous_with_carriers,TSAT,0.6,0.9549531024531025
+c282y_homozygous_with_carriers,TSAT,0.61,0.9555555555555556
+c282y_homozygous_with_carriers,TSAT,0.62,0.9555555555555556
+c282y_homozygous_with_carriers,TSAT,0.63,0.9563492063492064
+c282y_homozygous_with_carriers,TSAT,0.64,0.9571342403628118
+c282y_homozygous_with_carriers,TSAT,0.65,0.9583237547892721
+c282y_homozygous_with_carriers,TSAT,0.66,0.9603174603174603
+c282y_homozygous_with_carriers,TSAT,0.67,0.9656180952380954
+c282y_homozygous_with_carriers,TSAT,0.68,0.9666666666666668
+c282y_homozygous_with_carriers,TSAT,0.6900000000000001,0.9674603174603176
+c282y_homozygous_with_carriers,TSAT,0.7000000000000001,0.969047619047619
+c282y_homozygous_with_carriers,TSAT,0.71,0.9717946859903381
+c282y_homozygous_with_carriers,TSAT,0.72,0.973015873015873
+c282y_homozygous_with_carriers,TSAT,0.73,0.9736288442460317
+c282y_homozygous_with_carriers,TSAT,0.74,0.9739793887704336
+c282y_homozygous_with_carriers,TSAT,0.75,0.9746031746031746
+c282y_homozygous_with_carriers,TSAT,0.76,0.9749469387755102
+c282y_homozygous_with_carriers,TSAT,0.77,0.9773194444444444
+c282y_homozygous_with_carriers,TSAT,0.78,0.9782781954887216
+c282y_homozygous_with_carriers,TSAT,0.79,0.9793650793650792
+c282y_homozygous_with_carriers,TSAT,0.8,0.98015873015873
+c282y_homozygous_with_carriers,TSAT,0.81,0.9809523809523808
+c282y_homozygous_with_carriers,TSAT,0.8200000000000001,0.9828133486326256
+c282y_homozygous_with_carriers,TSAT,0.8300000000000001,0.983669719169719
+c282y_homozygous_with_carriers,TSAT,0.84,0.9861093474426809
+c282y_homozygous_with_carriers,TSAT,0.85,0.9865079365079366
+c282y_homozygous_with_carriers,TSAT,0.86,0.9885851851851851
+c282y_homozygous_with_carriers,TSAT,0.87,0.9897785558667911
+c282y_homozygous_with_carriers,TSAT,0.88,0.9912698412698412
+c282y_homozygous_with_carriers,TSAT,0.89,0.9913532790309105
+c282y_homozygous_with_carriers,TSAT,0.9,0.9921487360376249
+c282y_homozygous_with_carriers,TSAT,0.91,0.9935451205173427
+c282y_homozygous_with_carriers,TSAT,0.92,0.9936507936507936
+c282y_homozygous_with_carriers,TSAT,0.93,0.9939621212121211
+c282y_homozygous_with_carriers,TSAT,0.9400000000000001,0.9944444444444444
+c282y_homozygous_with_carriers,TSAT,0.9500000000000001,0.9944444444444444
+c282y_homozygous_with_carriers,TSAT,0.96,0.9945434173669467
+c282y_homozygous_with_carriers,TSAT,0.97,0.9958698893698894
+c282y_homozygous_with_carriers,TSAT,0.98,0.9966932591218306
+c282y_homozygous_with_carriers,TSAT,0.99,0.997367787114846
+c282y_homozygous_with_carriers,TSAT,1.0,1.0
+c282y_homozygous_with_carriers,Ferritin,0.0,0.0
+c282y_homozygous_with_carriers,Ferritin,0.01,0.047595238095238086
+c282y_homozygous_with_carriers,Ferritin,0.02,0.09201587301587297
+c282y_homozygous_with_carriers,Ferritin,0.03,0.12806746031746036
+c282y_homozygous_with_carriers,Ferritin,0.04,0.16041904761904763
+c282y_homozygous_with_carriers,Ferritin,0.05,0.1940873015873016
+c282y_homozygous_with_carriers,Ferritin,0.06,0.21898639455782307
+c282y_homozygous_with_carriers,Ferritin,0.07,0.25375264550264554
+c282y_homozygous_with_carriers,Ferritin,0.08,0.2827936507936508
+c282y_homozygous_with_carriers,Ferritin,0.09,0.30389682539682533
+c282y_homozygous_with_carriers,Ferritin,0.1,0.33284722222222224
+c282y_homozygous_with_carriers,Ferritin,0.11,0.34749415204678363
+c282y_homozygous_with_carriers,Ferritin,0.12,0.3745396825396826
+c282y_homozygous_with_carriers,Ferritin,0.13,0.39030846560846566
+c282y_homozygous_with_carriers,Ferritin,0.14,0.3998333333333334
+c282y_homozygous_with_carriers,Ferritin,0.15,0.4139285714285714
+c282y_homozygous_with_carriers,Ferritin,0.16,0.4262592592592593
+c282y_homozygous_with_carriers,Ferritin,0.17,0.43852936507936513
+c282y_homozygous_with_carriers,Ferritin,0.18,0.4504722222222223
+c282y_homozygous_with_carriers,Ferritin,0.19,0.4646587301587302
+c282y_homozygous_with_carriers,Ferritin,0.2,0.47417233560090705
+c282y_homozygous_with_carriers,Ferritin,0.21,0.48400925925925925
+c282y_homozygous_with_carriers,Ferritin,0.22,0.4961578947368421
+c282y_homozygous_with_carriers,Ferritin,0.23,0.5085552104899931
+c282y_homozygous_with_carriers,Ferritin,0.24,0.5170814814814816
+c282y_homozygous_with_carriers,Ferritin,0.25,0.5280895691609977
+c282y_homozygous_with_carriers,Ferritin,0.26,0.547589065255732
+c282y_homozygous_with_carriers,Ferritin,0.27,0.5657394957983194
+c282y_homozygous_with_carriers,Ferritin,0.28,0.5799523809523812
+c282y_homozygous_with_carriers,Ferritin,0.29,0.5911891534391535
+c282y_homozygous_with_carriers,Ferritin,0.3,0.6009807256235827
+c282y_homozygous_with_carriers,Ferritin,0.31,0.6123163265306123
+c282y_homozygous_with_carriers,Ferritin,0.32,0.6331976911976912
+c282y_homozygous_with_carriers,Ferritin,0.33,0.6473244047619048
+c282y_homozygous_with_carriers,Ferritin,0.34,0.6634682539682543
+c282y_homozygous_with_carriers,Ferritin,0.35000000000000003,0.674448051948052
+c282y_homozygous_with_carriers,Ferritin,0.36,0.6820042328042328
+c282y_homozygous_with_carriers,Ferritin,0.37,0.6879158163265306
+c282y_homozygous_with_carriers,Ferritin,0.38,0.6926904761904762
+c282y_homozygous_with_carriers,Ferritin,0.39,0.7013382936507936
+c282y_homozygous_with_carriers,Ferritin,0.4,0.7138775510204082
+c282y_homozygous_with_carriers,Ferritin,0.41000000000000003,0.7212862433862434
+c282y_homozygous_with_carriers,Ferritin,0.42,0.7336172839506172
+c282y_homozygous_with_carriers,Ferritin,0.43,0.742860582010582
+c282y_homozygous_with_carriers,Ferritin,0.44,0.7481269841269842
+c282y_homozygous_with_carriers,Ferritin,0.45,0.7553521825396826
+c282y_homozygous_with_carriers,Ferritin,0.46,0.7627494708994709
+c282y_homozygous_with_carriers,Ferritin,0.47000000000000003,0.7649318783068783
+c282y_homozygous_with_carriers,Ferritin,0.48,0.7778452380952381
+c282y_homozygous_with_carriers,Ferritin,0.49,0.7841410052910053
+c282y_homozygous_with_carriers,Ferritin,0.5,0.7847663139329806
+c282y_homozygous_with_carriers,Ferritin,0.51,0.7899325396825396
+c282y_homozygous_with_carriers,Ferritin,0.52,0.7980412698412699
+c282y_homozygous_with_carriers,Ferritin,0.53,0.8063606150793651
+c282y_homozygous_with_carriers,Ferritin,0.54,0.8111144781144781
+c282y_homozygous_with_carriers,Ferritin,0.55,0.8134972394755003
+c282y_homozygous_with_carriers,Ferritin,0.56,0.8217641723356008
+c282y_homozygous_with_carriers,Ferritin,0.5700000000000001,0.8277964392964393
+c282y_homozygous_with_carriers,Ferritin,0.58,0.829023939630497
+c282y_homozygous_with_carriers,Ferritin,0.59,0.8337055555555556
+c282y_homozygous_with_carriers,Ferritin,0.6,0.8381684981684981
+c282y_homozygous_with_carriers,Ferritin,0.61,0.8405571428571429
+c282y_homozygous_with_carriers,Ferritin,0.62,0.8428355227148331
+c282y_homozygous_with_carriers,Ferritin,0.63,0.846483630952381
+c282y_homozygous_with_carriers,Ferritin,0.64,0.848815873015873
+c282y_homozygous_with_carriers,Ferritin,0.65,0.8511261631089218
+c282y_homozygous_with_carriers,Ferritin,0.66,0.8590677655677655
+c282y_homozygous_with_carriers,Ferritin,0.67,0.8610622895622896
+c282y_homozygous_with_carriers,Ferritin,0.68,0.8643032679738563
+c282y_homozygous_with_carriers,Ferritin,0.6900000000000001,0.8649653594771243
+c282y_homozygous_with_carriers,Ferritin,0.7000000000000001,0.8701759834368531
+c282y_homozygous_with_carriers,Ferritin,0.71,0.8734369047619047
+c282y_homozygous_with_carriers,Ferritin,0.72,0.8759324766943815
+c282y_homozygous_with_carriers,Ferritin,0.73,0.8789813797313797
+c282y_homozygous_with_carriers,Ferritin,0.74,0.8829223985890653
+c282y_homozygous_with_carriers,Ferritin,0.75,0.8859593837535014
+c282y_homozygous_with_carriers,Ferritin,0.76,0.8901305114638447
+c282y_homozygous_with_carriers,Ferritin,0.77,0.8962664399092971
+c282y_homozygous_with_carriers,Ferritin,0.78,0.9017042915931804
+c282y_homozygous_with_carriers,Ferritin,0.79,0.9064982993197279
+c282y_homozygous_with_carriers,Ferritin,0.8,0.9110582010582013
+c282y_homozygous_with_carriers,Ferritin,0.81,0.9160202380952381
+c282y_homozygous_with_carriers,Ferritin,0.8200000000000001,0.9250123015873016
+c282y_homozygous_with_carriers,Ferritin,0.8300000000000001,0.9261292768959436
+c282y_homozygous_with_carriers,Ferritin,0.84,0.929148299319728
+c282y_homozygous_with_carriers,Ferritin,0.85,0.9330445326278659
+c282y_homozygous_with_carriers,Ferritin,0.86,0.9388076563958916
+c282y_homozygous_with_carriers,Ferritin,0.87,0.9411105006105005
+c282y_homozygous_with_carriers,Ferritin,0.88,0.9437703478554542
+c282y_homozygous_with_carriers,Ferritin,0.89,0.948030276308054
+c282y_homozygous_with_carriers,Ferritin,0.9,0.9497539682539682
+c282y_homozygous_with_carriers,Ferritin,0.91,0.9543840048840049
+c282y_homozygous_with_carriers,Ferritin,0.92,0.9602927689594357
+c282y_homozygous_with_carriers,Ferritin,0.93,0.9631452380952382
+c282y_homozygous_with_carriers,Ferritin,0.9400000000000001,0.9667959850606911
+c282y_homozygous_with_carriers,Ferritin,0.9500000000000001,0.9689748677248678
+c282y_homozygous_with_carriers,Ferritin,0.96,0.9782881562881561
+c282y_homozygous_with_carriers,Ferritin,0.97,0.9844996693121693
+c282y_homozygous_with_carriers,Ferritin,0.98,0.9897546583850931
+c282y_homozygous_with_carriers,Ferritin,0.99,0.9924781746031744
+c282y_homozygous_with_carriers,Ferritin,1.0,1.0
+c282y_homozygous_with_carriers,Age,0.0,0.0007936507936507
+c282y_homozygous_with_carriers,Age,0.01,0.011171296296296297
+c282y_homozygous_with_carriers,Age,0.02,0.023761904761904852
+c282y_homozygous_with_carriers,Age,0.03,0.037759259259259374
+c282y_homozygous_with_carriers,Age,0.04,0.04858201058201062
+c282y_homozygous_with_carriers,Age,0.05,0.06450396825396829
+c282y_homozygous_with_carriers,Age,0.06,0.08054497354497359
+c282y_homozygous_with_carriers,Age,0.07,0.09312896825396826
+c282y_homozygous_with_carriers,Age,0.08,0.1029474969474969
+c282y_homozygous_with_carriers,Age,0.09,0.11909788359788367
+c282y_homozygous_with_carriers,Age,0.1,0.12969047619047613
+c282y_homozygous_with_carriers,Age,0.11,0.1406365079365079
+c282y_homozygous_with_carriers,Age,0.12,0.15
+c282y_homozygous_with_carriers,Age,0.13,0.16778968253968257
+c282y_homozygous_with_carriers,Age,0.14,0.18312698412698436
+c282y_homozygous_with_carriers,Age,0.15,0.1944444444444444
+c282y_homozygous_with_carriers,Age,0.16,0.20462222222222223
+c282y_homozygous_with_carriers,Age,0.17,0.21566269841269853
+c282y_homozygous_with_carriers,Age,0.18,0.22860493827160489
+c282y_homozygous_with_carriers,Age,0.19,0.23577182539682545
+c282y_homozygous_with_carriers,Age,0.2,0.2536507936507936
+c282y_homozygous_with_carriers,Age,0.21,0.26591666666666675
+c282y_homozygous_with_carriers,Age,0.22,0.2749530158730159
+c282y_homozygous_with_carriers,Age,0.23,0.28344960317460316
+c282y_homozygous_with_carriers,Age,0.24,0.2979111111111112
+c282y_homozygous_with_carriers,Age,0.25,0.3087301587301587
+c282y_homozygous_with_carriers,Age,0.26,0.31877777777777794
+c282y_homozygous_with_carriers,Age,0.27,0.3290059523809523
+c282y_homozygous_with_carriers,Age,0.28,0.34768253968253976
+c282y_homozygous_with_carriers,Age,0.29,0.3630777777777777
+c282y_homozygous_with_carriers,Age,0.3,0.3799900793650793
+c282y_homozygous_with_carriers,Age,0.31,0.38820194003527336
+c282y_homozygous_with_carriers,Age,0.32,0.40041269841269844
+c282y_homozygous_with_carriers,Age,0.33,0.41075345622119813
+c282y_homozygous_with_carriers,Age,0.34,0.4246031746031746
+c282y_homozygous_with_carriers,Age,0.35000000000000003,0.44251587301587303
+c282y_homozygous_with_carriers,Age,0.36,0.4540380952380952
+c282y_homozygous_with_carriers,Age,0.37,0.4603174603174603
+c282y_homozygous_with_carriers,Age,0.38,0.4681428571428571
+c282y_homozygous_with_carriers,Age,0.39,0.4805544217687075
+c282y_homozygous_with_carriers,Age,0.4,0.4940317460317461
+c282y_homozygous_with_carriers,Age,0.41000000000000003,0.5001485260770976
+c282y_homozygous_with_carriers,Age,0.42,0.5126984126984127
+c282y_homozygous_with_carriers,Age,0.43,0.5190549886621316
+c282y_homozygous_with_carriers,Age,0.44,0.527388888888889
+c282y_homozygous_with_carriers,Age,0.45,0.5365456349206349
+c282y_homozygous_with_carriers,Age,0.46,0.5447396825396825
+c282y_homozygous_with_carriers,Age,0.47000000000000003,0.5545793650793652
+c282y_homozygous_with_carriers,Age,0.48,0.5674240362811792
+c282y_homozygous_with_carriers,Age,0.49,0.5758601953601953
+c282y_homozygous_with_carriers,Age,0.5,0.5823696145124717
+c282y_homozygous_with_carriers,Age,0.51,0.5921177248677248
+c282y_homozygous_with_carriers,Age,0.52,0.6072698412698414
+c282y_homozygous_with_carriers,Age,0.53,0.6138174603174604
+c282y_homozygous_with_carriers,Age,0.54,0.6228313492063492
+c282y_homozygous_with_carriers,Age,0.55,0.6359804894179893
+c282y_homozygous_with_carriers,Age,0.56,0.6420241874527589
+c282y_homozygous_with_carriers,Age,0.5700000000000001,0.655673015873016
+c282y_homozygous_with_carriers,Age,0.58,0.6611111111111111
+c282y_homozygous_with_carriers,Age,0.59,0.6757352092352092
+c282y_homozygous_with_carriers,Age,0.6,0.6847619047619048
+c282y_homozygous_with_carriers,Age,0.61,0.6904761904761905
+c282y_homozygous_with_carriers,Age,0.62,0.6944444444444444
+c282y_homozygous_with_carriers,Age,0.63,0.703436507936508
+c282y_homozygous_with_carriers,Age,0.64,0.7139503968253968
+c282y_homozygous_with_carriers,Age,0.65,0.7222222222222222
+c282y_homozygous_with_carriers,Age,0.66,0.7343748473748474
+c282y_homozygous_with_carriers,Age,0.67,0.745512077294686
+c282y_homozygous_with_carriers,Age,0.68,0.7569559082892416
+c282y_homozygous_with_carriers,Age,0.6900000000000001,0.7619495464852608
+c282y_homozygous_with_carriers,Age,0.7000000000000001,0.7706349206349207
+c282y_homozygous_with_carriers,Age,0.71,0.7817863756613757
+c282y_homozygous_with_carriers,Age,0.72,0.7880952380952381
+c282y_homozygous_with_carriers,Age,0.73,0.7954422222222222
+c282y_homozygous_with_carriers,Age,0.74,0.8018818342151676
+c282y_homozygous_with_carriers,Age,0.75,0.8139880952380953
+c282y_homozygous_with_carriers,Age,0.76,0.8207047619047618
+c282y_homozygous_with_carriers,Age,0.77,0.8270265873015873
+c282y_homozygous_with_carriers,Age,0.78,0.833857142857143
+c282y_homozygous_with_carriers,Age,0.79,0.8403293650793651
+c282y_homozygous_with_carriers,Age,0.8,0.847301587301588
+c282y_homozygous_with_carriers,Age,0.81,0.8547619047619047
+c282y_homozygous_with_carriers,Age,0.8200000000000001,0.8638637566137567
+c282y_homozygous_with_carriers,Age,0.8300000000000001,0.8726428571428575
+c282y_homozygous_with_carriers,Age,0.84,0.8828253968253967
+c282y_homozygous_with_carriers,Age,0.85,0.8899481074481074
+c282y_homozygous_with_carriers,Age,0.86,0.8979571428571429
+c282y_homozygous_with_carriers,Age,0.87,0.9
+c282y_homozygous_with_carriers,Age,0.88,0.907936507936508
+c282y_homozygous_with_carriers,Age,0.89,0.9108832199546486
+c282y_homozygous_with_carriers,Age,0.9,0.9177594627594627
+c282y_homozygous_with_carriers,Age,0.91,0.9198412698412698
+c282y_homozygous_with_carriers,Age,0.92,0.923809523809524
+c282y_homozygous_with_carriers,Age,0.93,0.9321183862433863
+c282y_homozygous_with_carriers,Age,0.9400000000000001,0.9391333333333333
+c282y_homozygous_with_carriers,Age,0.9500000000000001,0.9466683919944789
+c282y_homozygous_with_carriers,Age,0.96,0.9562562358276644
+c282y_homozygous_with_carriers,Age,0.97,0.9668052503052504
+c282y_homozygous_with_carriers,Age,0.98,0.9739433106575963
+c282y_homozygous_with_carriers,Age,0.99,0.985136904761905
+c282y_homozygous_with_carriers,Age,1.0,1.0
+c282y_homozygous_with_carriers,Sex,0.0,0.0
+c282y_homozygous_with_carriers,Sex,0.01,0.0039682539682539
+c282y_homozygous_with_carriers,Sex,0.02,0.0119047619047619
+c282y_homozygous_with_carriers,Sex,0.03,0.0214285714285714
+c282y_homozygous_with_carriers,Sex,0.04,0.03239682539682539
+c282y_homozygous_with_carriers,Sex,0.05,0.0428571428571428
+c282y_homozygous_with_carriers,Sex,0.06,0.0515873015873015
+c282y_homozygous_with_carriers,Sex,0.07,0.06378571428571433
+c282y_homozygous_with_carriers,Sex,0.08,0.0753968253968253
+c282y_homozygous_with_carriers,Sex,0.09,0.0865833333333334
+c282y_homozygous_with_carriers,Sex,0.1,0.09849206349206363
+c282y_homozygous_with_carriers,Sex,0.11,0.1087301587301587
+c282y_homozygous_with_carriers,Sex,0.12,0.1182539682539682
+c282y_homozygous_with_carriers,Sex,0.13,0.12493253968253977
+c282y_homozygous_with_carriers,Sex,0.14,0.1380952380952381
+c282y_homozygous_with_carriers,Sex,0.15,0.1428571428571428
+c282y_homozygous_with_carriers,Sex,0.16,0.1555555555555555
+c282y_homozygous_with_carriers,Sex,0.17,0.162593253968254
+c282y_homozygous_with_carriers,Sex,0.18,0.18046031746031754
+c282y_homozygous_with_carriers,Sex,0.19,0.1949047619047623
+c282y_homozygous_with_carriers,Sex,0.2,0.20722222222222234
+c282y_homozygous_with_carriers,Sex,0.21,0.2202817460317461
+c282y_homozygous_with_carriers,Sex,0.22,0.2357142857142857
+c282y_homozygous_with_carriers,Sex,0.23,0.2465423280423281
+c282y_homozygous_with_carriers,Sex,0.24,0.257809523809524
+c282y_homozygous_with_carriers,Sex,0.25,0.26959325396825395
+c282y_homozygous_with_carriers,Sex,0.26,0.2801587301587301
+c282y_homozygous_with_carriers,Sex,0.27,0.2912698412698413
+c282y_homozygous_with_carriers,Sex,0.28,0.2952380952380952
+c282y_homozygous_with_carriers,Sex,0.29,0.3071428571428571
+c282y_homozygous_with_carriers,Sex,0.3,0.31952380952381004
+c282y_homozygous_with_carriers,Sex,0.31,0.3295317460317459
+c282y_homozygous_with_carriers,Sex,0.32,0.3380952380952381
+c282y_homozygous_with_carriers,Sex,0.33,0.353968253968254
+c282y_homozygous_with_carriers,Sex,0.34,0.36928042328042343
+c282y_homozygous_with_carriers,Sex,0.35000000000000003,0.3799206349206357
+c282y_homozygous_with_carriers,Sex,0.36,0.39618253968253975
+c282y_homozygous_with_carriers,Sex,0.37,0.4076746031746033
+c282y_homozygous_with_carriers,Sex,0.38,0.4206349206349206
+c282y_homozygous_with_carriers,Sex,0.39,0.4341269841269841
+c282y_homozygous_with_carriers,Sex,0.4,0.4521428571428572
+c282y_homozygous_with_carriers,Sex,0.41000000000000003,0.46373809523809584
+c282y_homozygous_with_carriers,Sex,0.42,0.4698412698412698
+c282y_homozygous_with_carriers,Sex,0.43,0.4801587301587302
+c282y_homozygous_with_carriers,Sex,0.44,0.48731216931216936
+c282y_homozygous_with_carriers,Sex,0.45,0.49661706349206347
+c282y_homozygous_with_carriers,Sex,0.46,0.5015873015873016
+c282y_homozygous_with_carriers,Sex,0.47000000000000003,0.5079365079365079
+c282y_homozygous_with_carriers,Sex,0.48,0.5142857142857142
+c282y_homozygous_with_carriers,Sex,0.49,0.523015873015873
+c282y_homozygous_with_carriers,Sex,0.5,0.530952380952381
+c282y_homozygous_with_carriers,Sex,0.51,0.5396825396825397
+c282y_homozygous_with_carriers,Sex,0.52,0.5444444444444444
+c282y_homozygous_with_carriers,Sex,0.53,0.5547619047619048
+c282y_homozygous_with_carriers,Sex,0.54,0.5622433862433864
+c282y_homozygous_with_carriers,Sex,0.55,0.5698412698412698
+c282y_homozygous_with_carriers,Sex,0.56,0.5765714285714286
+c282y_homozygous_with_carriers,Sex,0.5700000000000001,0.5857142857142857
+c282y_homozygous_with_carriers,Sex,0.58,0.5992063492063492
+c282y_homozygous_with_carriers,Sex,0.59,0.6065317460317459
+c282y_homozygous_with_carriers,Sex,0.6,0.6142857142857143
+c282y_homozygous_with_carriers,Sex,0.61,0.6279801587301588
+c282y_homozygous_with_carriers,Sex,0.62,0.6373015873015873
+c282y_homozygous_with_carriers,Sex,0.63,0.6429444444444444
+c282y_homozygous_with_carriers,Sex,0.64,0.6523809523809524
+c282y_homozygous_with_carriers,Sex,0.65,0.6563492063492063
+c282y_homozygous_with_carriers,Sex,0.66,0.6651269841269841
+c282y_homozygous_with_carriers,Sex,0.67,0.6722222222222223
+c282y_homozygous_with_carriers,Sex,0.68,0.6793650793650794
+c282y_homozygous_with_carriers,Sex,0.6900000000000001,0.6857142857142857
+c282y_homozygous_with_carriers,Sex,0.7000000000000001,0.6936507936507936
+c282y_homozygous_with_carriers,Sex,0.71,0.7015873015873015
+c282y_homozygous_with_carriers,Sex,0.72,0.7087301587301588
+c282y_homozygous_with_carriers,Sex,0.73,0.7174603174603175
+c282y_homozygous_with_carriers,Sex,0.74,0.7246031746031746
+c282y_homozygous_with_carriers,Sex,0.75,0.7388888888888889
+c282y_homozygous_with_carriers,Sex,0.76,0.7468253968253968
+c282y_homozygous_with_carriers,Sex,0.77,0.7555555555555555
+c282y_homozygous_with_carriers,Sex,0.78,0.7682539682539683
+c282y_homozygous_with_carriers,Sex,0.79,0.7793650793650794
+c282y_homozygous_with_carriers,Sex,0.8,0.7992063492063493
+c282y_homozygous_with_carriers,Sex,0.81,0.8156428571428572
+c282y_homozygous_with_carriers,Sex,0.8200000000000001,0.8238095238095238
+c282y_homozygous_with_carriers,Sex,0.8300000000000001,0.8299722222222226
+c282y_homozygous_with_carriers,Sex,0.84,0.8374761904761904
+c282y_homozygous_with_carriers,Sex,0.85,0.8476190476190476
+c282y_homozygous_with_carriers,Sex,0.86,0.8587301587301587
+c282y_homozygous_with_carriers,Sex,0.87,0.866142857142857
+c282y_homozygous_with_carriers,Sex,0.88,0.873015873015873
+c282y_homozygous_with_carriers,Sex,0.89,0.8817460317460317
+c282y_homozygous_with_carriers,Sex,0.9,0.8912698412698413
+c282y_homozygous_with_carriers,Sex,0.91,0.9031746031746032
+c282y_homozygous_with_carriers,Sex,0.92,0.9126984126984128
+c282y_homozygous_with_carriers,Sex,0.93,0.9236626984126983
+c282y_homozygous_with_carriers,Sex,0.9400000000000001,0.934126984126984
+c282y_homozygous_with_carriers,Sex,0.9500000000000001,0.9428571428571428
+c282y_homozygous_with_carriers,Sex,0.96,0.9562476190476192
+c282y_homozygous_with_carriers,Sex,0.97,0.9664735449735449
+c282y_homozygous_with_carriers,Sex,0.98,0.9779206349206349
+c282y_homozygous_with_carriers,Sex,0.99,0.9896825396825396
+c282y_homozygous_with_carriers,Sex,1.0,1.0
+c282y_homozygous_with_carriers,Family history,0.0,0.0
+c282y_homozygous_with_carriers,Family history,0.01,0.013203703703703733
+c282y_homozygous_with_carriers,Family history,0.02,0.0261904761904761
+c282y_homozygous_with_carriers,Family history,0.03,0.0349206349206349
+c282y_homozygous_with_carriers,Family history,0.04,0.0484126984126984
+c282y_homozygous_with_carriers,Family history,0.05,0.0579365079365079
+c282y_homozygous_with_carriers,Family history,0.06,0.0674603174603174
+c282y_homozygous_with_carriers,Family history,0.07,0.07951190476190483
+c282y_homozygous_with_carriers,Family history,0.08,0.0865079365079365
+c282y_homozygous_with_carriers,Family history,0.09,0.0936507936507936
+c282y_homozygous_with_carriers,Family history,0.1,0.1047619047619047
+c282y_homozygous_with_carriers,Family history,0.11,0.1182539682539682
+c282y_homozygous_with_carriers,Family history,0.12,0.13326984126984134
+c282y_homozygous_with_carriers,Family history,0.13,0.1452380952380952
+c282y_homozygous_with_carriers,Family history,0.14,0.165079365079365
+c282y_homozygous_with_carriers,Family history,0.15,0.1768452380952382
+c282y_homozygous_with_carriers,Family history,0.16,0.18771428571428578
+c282y_homozygous_with_carriers,Family history,0.17,0.20116666666666688
+c282y_homozygous_with_carriers,Family history,0.18,0.22417460317460322
+c282y_homozygous_with_carriers,Family history,0.19,0.2388888888888889
+c282y_homozygous_with_carriers,Family history,0.2,0.246031746031746
+c282y_homozygous_with_carriers,Family history,0.21,0.26040476190476214
+c282y_homozygous_with_carriers,Family history,0.22,0.2746031746031746
+c282y_homozygous_with_carriers,Family history,0.23,0.2888888888888888
+c282y_homozygous_with_carriers,Family history,0.24,0.30066666666666686
+c282y_homozygous_with_carriers,Family history,0.25,0.3174603174603174
+c282y_homozygous_with_carriers,Family history,0.26,0.3365079365079365
+c282y_homozygous_with_carriers,Family history,0.27,0.354383597883598
+c282y_homozygous_with_carriers,Family history,0.28,0.3706349206349206
+c282y_homozygous_with_carriers,Family history,0.29,0.3906309523809525
+c282y_homozygous_with_carriers,Family history,0.3,0.4112698412698414
+c282y_homozygous_with_carriers,Family history,0.31,0.4373015873015873
+c282y_homozygous_with_carriers,Family history,0.32,0.44654603174603186
+c282y_homozygous_with_carriers,Family history,0.33,0.44894973544973554
+c282y_homozygous_with_carriers,Family history,0.34,0.4539682539682539
+c282y_homozygous_with_carriers,Family history,0.35000000000000003,0.4571428571428571
+c282y_homozygous_with_carriers,Family history,0.36,0.4611111111111111
+c282y_homozygous_with_carriers,Family history,0.37,0.4650793650793651
+c282y_homozygous_with_carriers,Family history,0.38,0.473015873015873
+c282y_homozygous_with_carriers,Family history,0.39,0.4809523809523809
+c282y_homozygous_with_carriers,Family history,0.4,0.4880952380952381
+c282y_homozygous_with_carriers,Family history,0.41000000000000003,0.4952380952380952
+c282y_homozygous_with_carriers,Family history,0.42,0.5017619047619047
+c282y_homozygous_with_carriers,Family history,0.43,0.5079880952380954
+c282y_homozygous_with_carriers,Family history,0.44,0.5134920634920634
+c282y_homozygous_with_carriers,Family history,0.45,0.5238095238095238
+c282y_homozygous_with_carriers,Family history,0.46,0.5344682539682541
+c282y_homozygous_with_carriers,Family history,0.47000000000000003,0.542063492063492
+c282y_homozygous_with_carriers,Family history,0.48,0.55
+c282y_homozygous_with_carriers,Family history,0.49,0.5605515873015873
+c282y_homozygous_with_carriers,Family history,0.5,0.5718253968253969
+c282y_homozygous_with_carriers,Family history,0.51,0.5757222222222221
+c282y_homozygous_with_carriers,Family history,0.52,0.5817460317460318
+c282y_homozygous_with_carriers,Family history,0.53,0.5896825396825397
+c282y_homozygous_with_carriers,Family history,0.54,0.5912698412698413
+c282y_homozygous_with_carriers,Family history,0.55,0.6007936507936508
+c282y_homozygous_with_carriers,Family history,0.56,0.6158730158730159
+c282y_homozygous_with_carriers,Family history,0.5700000000000001,0.6217253968253968
+c282y_homozygous_with_carriers,Family history,0.58,0.626984126984127
+c282y_homozygous_with_carriers,Family history,0.59,0.6373015873015873
+c282y_homozygous_with_carriers,Family history,0.6,0.6468253968253969
+c282y_homozygous_with_carriers,Family history,0.61,0.6533095238095239
+c282y_homozygous_with_carriers,Family history,0.62,0.6634920634920635
+c282y_homozygous_with_carriers,Family history,0.63,0.6753968253968254
+c282y_homozygous_with_carriers,Family history,0.64,0.6854126984126984
+c282y_homozygous_with_carriers,Family history,0.65,0.6928571428571428
+c282y_homozygous_with_carriers,Family history,0.66,0.7015873015873015
+c282y_homozygous_with_carriers,Family history,0.67,0.7105740740740741
+c282y_homozygous_with_carriers,Family history,0.68,0.719047619047619
+c282y_homozygous_with_carriers,Family history,0.6900000000000001,0.726984126984127
+c282y_homozygous_with_carriers,Family history,0.7000000000000001,0.7325793650793657
+c282y_homozygous_with_carriers,Family history,0.71,0.7420634920634921
+c282y_homozygous_with_carriers,Family history,0.72,0.7476190476190476
+c282y_homozygous_with_carriers,Family history,0.73,0.7531746031746032
+c282y_homozygous_with_carriers,Family history,0.74,0.7609365079365079
+c282y_homozygous_with_carriers,Family history,0.75,0.773015873015873
+c282y_homozygous_with_carriers,Family history,0.76,0.7793650793650794
+c282y_homozygous_with_carriers,Family history,0.77,0.7873015873015873
+c282y_homozygous_with_carriers,Family history,0.78,0.7926547619047619
+c282y_homozygous_with_carriers,Family history,0.79,0.7984126984126985
+c282y_homozygous_with_carriers,Family history,0.8,0.8095238095238095
+c282y_homozygous_with_carriers,Family history,0.81,0.8210650793650793
+c282y_homozygous_with_carriers,Family history,0.8200000000000001,0.834920634920635
+c282y_homozygous_with_carriers,Family history,0.8300000000000001,0.8420793650793653
+c282y_homozygous_with_carriers,Family history,0.84,0.8539682539682539
+c282y_homozygous_with_carriers,Family history,0.85,0.8648214285714284
+c282y_homozygous_with_carriers,Family history,0.86,0.8699444444444445
+c282y_homozygous_with_carriers,Family history,0.87,0.876984126984127
+c282y_homozygous_with_carriers,Family history,0.88,0.8905396825396825
+c282y_homozygous_with_carriers,Family history,0.89,0.9023783068783069
+c282y_homozygous_with_carriers,Family history,0.9,0.9134920634920636
+c282y_homozygous_with_carriers,Family history,0.91,0.9227010582010585
+c282y_homozygous_with_carriers,Family history,0.92,0.9293650793650794
+c282y_homozygous_with_carriers,Family history,0.93,0.9357142857142856
+c282y_homozygous_with_carriers,Family history,0.9400000000000001,0.946031746031746
+c282y_homozygous_with_carriers,Family history,0.9500000000000001,0.953968253968254
+c282y_homozygous_with_carriers,Family history,0.96,0.9595238095238096
+c282y_homozygous_with_carriers,Family history,0.97,0.9698412698412698
+c282y_homozygous_with_carriers,Family history,0.98,0.976984126984127
+c282y_homozygous_with_carriers,Family history,0.99,0.9892206349206348
+c282y_homozygous_with_carriers,Family history,1.0,1.0
+c282y_homozygous_with_carriers,All five combined,0.0,0.0
+c282y_homozygous_with_carriers,All five combined,0.01,0.2935158730158732
+c282y_homozygous_with_carriers,All five combined,0.02,0.47635317460317456
+c282y_homozygous_with_carriers,All five combined,0.03,0.565765873015873
+c282y_homozygous_with_carriers,All five combined,0.04,0.6272380952380954
+c282y_homozygous_with_carriers,All five combined,0.05,0.6728968253968255
+c282y_homozygous_with_carriers,All five combined,0.06,0.7093809523809524
+c282y_homozygous_with_carriers,All five combined,0.07,0.7368841269841271
+c282y_homozygous_with_carriers,All five combined,0.08,0.7654179894179896
+c282y_homozygous_with_carriers,All five combined,0.09,0.7865833333333334
+c282y_homozygous_with_carriers,All five combined,0.1,0.7945899470899471
+c282y_homozygous_with_carriers,All five combined,0.11,0.7999012896825397
+c282y_homozygous_with_carriers,All five combined,0.12,0.8063224206349207
+c282y_homozygous_with_carriers,All five combined,0.13,0.8199574603174603
+c282y_homozygous_with_carriers,All five combined,0.14,0.8277365079365079
+c282y_homozygous_with_carriers,All five combined,0.15,0.8364530812324931
+c282y_homozygous_with_carriers,All five combined,0.16,0.8430292397660819
+c282y_homozygous_with_carriers,All five combined,0.17,0.8472826617826618
+c282y_homozygous_with_carriers,All five combined,0.18,0.854962962962963
+c282y_homozygous_with_carriers,All five combined,0.19,0.8646494252873563
+c282y_homozygous_with_carriers,All five combined,0.2,0.8699171842650104
+c282y_homozygous_with_carriers,All five combined,0.21,0.877037784679089
+c282y_homozygous_with_carriers,All five combined,0.22,0.8806061507936508
+c282y_homozygous_with_carriers,All five combined,0.23,0.8893735279057859
+c282y_homozygous_with_carriers,All five combined,0.24,0.8934149659863946
+c282y_homozygous_with_carriers,All five combined,0.25,0.9005952380952381
+c282y_homozygous_with_carriers,All five combined,0.26,0.9015366479925304
+c282y_homozygous_with_carriers,All five combined,0.27,0.906154761904762
+c282y_homozygous_with_carriers,All five combined,0.28,0.9092179322179323
+c282y_homozygous_with_carriers,All five combined,0.29,0.9127204761904762
+c282y_homozygous_with_carriers,All five combined,0.3,0.9144653299916459
+c282y_homozygous_with_carriers,All five combined,0.31,0.9178064058956916
+c282y_homozygous_with_carriers,All five combined,0.32,0.9222784992784995
+c282y_homozygous_with_carriers,All five combined,0.33,0.9236968253968255
+c282y_homozygous_with_carriers,All five combined,0.34,0.9247613445378152
+c282y_homozygous_with_carriers,All five combined,0.35000000000000003,0.9255476190476191
+c282y_homozygous_with_carriers,All five combined,0.36,0.928984126984127
+c282y_homozygous_with_carriers,All five combined,0.37,0.9333885582010581
+c282y_homozygous_with_carriers,All five combined,0.38,0.9350679476468949
+c282y_homozygous_with_carriers,All five combined,0.39,0.9374376924899311
+c282y_homozygous_with_carriers,All five combined,0.4,0.9405094482237338
+c282y_homozygous_with_carriers,All five combined,0.41000000000000003,0.9410454270597126
+c282y_homozygous_with_carriers,All five combined,0.42,0.9429407814407814
+c282y_homozygous_with_carriers,All five combined,0.43,0.9436956349206349
+c282y_homozygous_with_carriers,All five combined,0.44,0.9469523809523809
+c282y_homozygous_with_carriers,All five combined,0.45,0.9494758273679842
+c282y_homozygous_with_carriers,All five combined,0.46,0.9498436559809108
+c282y_homozygous_with_carriers,All five combined,0.47000000000000003,0.9547162698412699
+c282y_homozygous_with_carriers,All five combined,0.48,0.9582798353909465
+c282y_homozygous_with_carriers,All five combined,0.49,0.9606404295051355
+c282y_homozygous_with_carriers,All five combined,0.5,0.9630050505050506
+c282y_homozygous_with_carriers,All five combined,0.51,0.9637539226418538
+c282y_homozygous_with_carriers,All five combined,0.52,0.9640773581463238
+c282y_homozygous_with_carriers,All five combined,0.53,0.9645212885154063
+c282y_homozygous_with_carriers,All five combined,0.54,0.9654068195179307
+c282y_homozygous_with_carriers,All five combined,0.55,0.9703623188405798
+c282y_homozygous_with_carriers,All five combined,0.56,0.9713834115805947
+c282y_homozygous_with_carriers,All five combined,0.5700000000000001,0.9719540311173974
+c282y_homozygous_with_carriers,All five combined,0.58,0.9725231549664539
+c282y_homozygous_with_carriers,All five combined,0.59,0.9731180914132721
+c282y_homozygous_with_carriers,All five combined,0.6,0.9737961369286671
+c282y_homozygous_with_carriers,All five combined,0.61,0.9749505070546737
+c282y_homozygous_with_carriers,All five combined,0.62,0.9756312220681153
+c282y_homozygous_with_carriers,All five combined,0.63,0.9761776082601326
+c282y_homozygous_with_carriers,All five combined,0.64,0.9771535163943923
+c282y_homozygous_with_carriers,All five combined,0.65,0.9775643030935001
+c282y_homozygous_with_carriers,All five combined,0.66,0.9780884875022805
+c282y_homozygous_with_carriers,All five combined,0.67,0.9789371184371183
+c282y_homozygous_with_carriers,All five combined,0.68,0.9804666666666665
+c282y_homozygous_with_carriers,All five combined,0.6900000000000001,0.9814284979423866
+c282y_homozygous_with_carriers,All five combined,0.7000000000000001,0.9823401973401972
+c282y_homozygous_with_carriers,All five combined,0.71,0.9832095020656663
+c282y_homozygous_with_carriers,All five combined,0.72,0.9835051082251081
+c282y_homozygous_with_carriers,All five combined,0.73,0.9837097546897545
+c282y_homozygous_with_carriers,All five combined,0.74,0.983914401154401
+c282y_homozygous_with_carriers,All five combined,0.75,0.9841190476190474
+c282y_homozygous_with_carriers,All five combined,0.76,0.984454834054834
+c282y_homozygous_with_carriers,All five combined,0.77,0.9847959114959115
+c282y_homozygous_with_carriers,All five combined,0.78,0.9866558730158731
+c282y_homozygous_with_carriers,All five combined,0.79,0.9873418396418395
+c282y_homozygous_with_carriers,All five combined,0.8,0.9876304436304436
+c282y_homozygous_with_carriers,All five combined,0.81,0.9879190476190476
+c282y_homozygous_with_carriers,All five combined,0.8200000000000001,0.9883144444444444
+c282y_homozygous_with_carriers,All five combined,0.8300000000000001,0.9888772222222222
+c282y_homozygous_with_carriers,All five combined,0.84,0.9901224489795918
+c282y_homozygous_with_carriers,All five combined,0.85,0.9906470224023415
+c282y_homozygous_with_carriers,All five combined,0.86,0.9910461555780704
+c282y_homozygous_with_carriers,All five combined,0.87,0.9913941533062135
+c282y_homozygous_with_carriers,All five combined,0.88,0.9916769562096195
+c282y_homozygous_with_carriers,All five combined,0.89,0.9919597591130254
+c282y_homozygous_with_carriers,All five combined,0.9,0.9924730888523992
+c282y_homozygous_with_carriers,All five combined,0.91,0.9938214947089946
+c282y_homozygous_with_carriers,All five combined,0.92,0.9942904761904761
+c282y_homozygous_with_carriers,All five combined,0.93,0.9951076301865776
+c282y_homozygous_with_carriers,All five combined,0.9400000000000001,0.9961057513914657
+c282y_homozygous_with_carriers,All five combined,0.9500000000000001,0.9963493781350924
+c282y_homozygous_with_carriers,All five combined,0.96,0.9965930048787192
+c282y_homozygous_with_carriers,All five combined,0.97,0.9968407532638301
+c282y_homozygous_with_carriers,All five combined,0.98,0.9971737578660655
+c282y_homozygous_with_carriers,All five combined,0.99,0.997506762468301
+c282y_homozygous_with_carriers,All five combined,1.0,1.0
+compound_heterozygous,TSAT,0.0,0.0
+compound_heterozygous,TSAT,0.01,0.023794889502762588
+compound_heterozygous,TSAT,0.02,0.04793508287292822
+compound_heterozygous,TSAT,0.03,0.07739389753892513
+compound_heterozygous,TSAT,0.04,0.09844383057090239
+compound_heterozygous,TSAT,0.05,0.12054558011049737
+compound_heterozygous,TSAT,0.06,0.14657872928176796
+compound_heterozygous,TSAT,0.07,0.16901933701657482
+compound_heterozygous,TSAT,0.08,0.18606813996316765
+compound_heterozygous,TSAT,0.09,0.20631629834254145
+compound_heterozygous,TSAT,0.1,0.22564456721915307
+compound_heterozygous,TSAT,0.11,0.23860583563535911
+compound_heterozygous,TSAT,0.12,0.2527348066298343
+compound_heterozygous,TSAT,0.13,0.27226322020520916
+compound_heterozygous,TSAT,0.14,0.2863792423046567
+compound_heterozygous,TSAT,0.15,0.30083186840783527
+compound_heterozygous,TSAT,0.16,0.31127685696746465
+compound_heterozygous,TSAT,0.17,0.32854627071823217
+compound_heterozygous,TSAT,0.18,0.3470138121546962
+compound_heterozygous,TSAT,0.19,0.36279178176795585
+compound_heterozygous,TSAT,0.2,0.38310313075506447
+compound_heterozygous,TSAT,0.21,0.3967604742173112
+compound_heterozygous,TSAT,0.22,0.40746132596685086
+compound_heterozygous,TSAT,0.23,0.4185082872928177
+compound_heterozygous,TSAT,0.24,0.43112075769534336
+compound_heterozygous,TSAT,0.25,0.4389387661141805
+compound_heterozygous,TSAT,0.26,0.4502762430939226
+compound_heterozygous,TSAT,0.27,0.4651312154696133
+compound_heterozygous,TSAT,0.28,0.4749151539068666
+compound_heterozygous,TSAT,0.29,0.48841965930018416
+compound_heterozygous,TSAT,0.3,0.501530847145488
+compound_heterozygous,TSAT,0.31,0.5105680248618785
+compound_heterozygous,TSAT,0.32,0.5207182320441989
+compound_heterozygous,TSAT,0.33,0.5303867403314917
+compound_heterozygous,TSAT,0.34,0.5425736648250461
+compound_heterozygous,TSAT,0.35000000000000003,0.5476415745856353
+compound_heterozygous,TSAT,0.36,0.5562016574585636
+compound_heterozygous,TSAT,0.37,0.5669889502762431
+compound_heterozygous,TSAT,0.38,0.5845269337016575
+compound_heterozygous,TSAT,0.39,0.6013107734806631
+compound_heterozygous,TSAT,0.4,0.6084254143646409
+compound_heterozygous,TSAT,0.41000000000000003,0.6173508287292818
+compound_heterozygous,TSAT,0.42,0.6266591850828729
+compound_heterozygous,TSAT,0.43,0.6360676795580111
+compound_heterozygous,TSAT,0.44,0.645377532228361
+compound_heterozygous,TSAT,0.45,0.6607201155198393
+compound_heterozygous,TSAT,0.46,0.6712546040515655
+compound_heterozygous,TSAT,0.47000000000000003,0.6832236034376918
+compound_heterozygous,TSAT,0.48,0.6960067526089626
+compound_heterozygous,TSAT,0.49,0.703446132596685
+compound_heterozygous,TSAT,0.5,0.7096622300351583
+compound_heterozygous,TSAT,0.51,0.7175414364640884
+compound_heterozygous,TSAT,0.52,0.7293729281767956
+compound_heterozygous,TSAT,0.53,0.7347623158379374
+compound_heterozygous,TSAT,0.54,0.7445942679558011
+compound_heterozygous,TSAT,0.55,0.7500906422651934
+compound_heterozygous,TSAT,0.56,0.7556574585635359
+compound_heterozygous,TSAT,0.5700000000000001,0.7614315311760064
+compound_heterozygous,TSAT,0.58,0.7693370165745856
+compound_heterozygous,TSAT,0.59,0.7746339779005524
+compound_heterozygous,TSAT,0.6,0.7817679558011049
+compound_heterozygous,TSAT,0.61,0.7877377663772691
+compound_heterozygous,TSAT,0.62,0.7939716850828729
+compound_heterozygous,TSAT,0.63,0.8045580110497238
+compound_heterozygous,TSAT,0.64,0.8122080396265956
+compound_heterozygous,TSAT,0.65,0.818242403314917
+compound_heterozygous,TSAT,0.66,0.8277545382794002
+compound_heterozygous,TSAT,0.67,0.8368387430939227
+compound_heterozygous,TSAT,0.68,0.843361665958351
+compound_heterozygous,TSAT,0.6900000000000001,0.8482026933701658
+compound_heterozygous,TSAT,0.7000000000000001,0.8573765538674033
+compound_heterozygous,TSAT,0.71,0.8639970841006752
+compound_heterozygous,TSAT,0.72,0.8709771296415264
+compound_heterozygous,TSAT,0.73,0.8740135819521179
+compound_heterozygous,TSAT,0.74,0.8809683855125844
+compound_heterozygous,TSAT,0.75,0.8835031077348067
+compound_heterozygous,TSAT,0.76,0.8905455801104972
+compound_heterozygous,TSAT,0.77,0.8952292817679558
+compound_heterozygous,TSAT,0.78,0.9040055248618784
+compound_heterozygous,TSAT,0.79,0.9116022099447514
+compound_heterozygous,TSAT,0.8,0.917523020257827
+compound_heterozygous,TSAT,0.81,0.9215307634354596
+compound_heterozygous,TSAT,0.8200000000000001,0.9273181399631677
+compound_heterozygous,TSAT,0.8300000000000001,0.9324232206694834
+compound_heterozygous,TSAT,0.84,0.9371546961325968
+compound_heterozygous,TSAT,0.85,0.9403915745856354
+compound_heterozygous,TSAT,0.86,0.9447281516825716
+compound_heterozygous,TSAT,0.87,0.9502762430939228
+compound_heterozygous,TSAT,0.88,0.957049723756906
+compound_heterozygous,TSAT,0.89,0.9622444751381216
+compound_heterozygous,TSAT,0.9,0.9649885692512858
+compound_heterozygous,TSAT,0.91,0.9704052716390422
+compound_heterozygous,TSAT,0.92,0.9724382087816226
+compound_heterozygous,TSAT,0.93,0.9779875690607736
+compound_heterozygous,TSAT,0.9400000000000001,0.9802718483174284
+compound_heterozygous,TSAT,0.9500000000000001,0.9830141888498243
+compound_heterozygous,TSAT,0.96,0.9839857932123126
+compound_heterozygous,TSAT,0.97,0.9857755825126111
+compound_heterozygous,TSAT,0.98,0.9906618929921489
+compound_heterozygous,TSAT,0.99,0.9946977021597188
+compound_heterozygous,TSAT,1.0,1.0
+compound_heterozygous,Ferritin,0.0,0.0
+compound_heterozygous,Ferritin,0.01,0.0064422191528544425
+compound_heterozygous,Ferritin,0.02,0.013651780233271866
+compound_heterozygous,Ferritin,0.03,0.022916091160220947
+compound_heterozygous,Ferritin,0.04,0.028166750376695117
+compound_heterozygous,Ferritin,0.05,0.03659025711857196
+compound_heterozygous,Ferritin,0.06,0.053052486187845305
+compound_heterozygous,Ferritin,0.07,0.061361752887995974
+compound_heterozygous,Ferritin,0.08,0.07201657458563542
+compound_heterozygous,Ferritin,0.09,0.08400414364640889
+compound_heterozygous,Ferritin,0.1,0.09261049723756919
+compound_heterozygous,Ferritin,0.11,0.10380194571222677
+compound_heterozygous,Ferritin,0.12,0.1192127071823204
+compound_heterozygous,Ferritin,0.13,0.13039450966850832
+compound_heterozygous,Ferritin,0.14,0.14666436464088406
+compound_heterozygous,Ferritin,0.15,0.15684934885556426
+compound_heterozygous,Ferritin,0.16,0.1702762430939228
+compound_heterozygous,Ferritin,0.17,0.18081721915285454
+compound_heterozygous,Ferritin,0.18,0.19132219989954793
+compound_heterozygous,Ferritin,0.19,0.19780340699815835
+compound_heterozygous,Ferritin,0.2,0.2073204419889505
+compound_heterozygous,Ferritin,0.21,0.2190551230537418
+compound_heterozygous,Ferritin,0.22,0.23536003683241247
+compound_heterozygous,Ferritin,0.23,0.24727534936626586
+compound_heterozygous,Ferritin,0.24,0.2568922651933702
+compound_heterozygous,Ferritin,0.25,0.26779548145224935
+compound_heterozygous,Ferritin,0.26,0.2818249309392265
+compound_heterozygous,Ferritin,0.27,0.2977011395027624
+compound_heterozygous,Ferritin,0.28,0.31298802946592996
+compound_heterozygous,Ferritin,0.29,0.33225734555499753
+compound_heterozygous,Ferritin,0.3,0.3410623848987109
+compound_heterozygous,Ferritin,0.31,0.3523122802611752
+compound_heterozygous,Ferritin,0.32,0.36679558011049757
+compound_heterozygous,Ferritin,0.33,0.3822617403314918
+compound_heterozygous,Ferritin,0.34,0.3894924033149172
+compound_heterozygous,Ferritin,0.35000000000000003,0.40637085635359127
+compound_heterozygous,Ferritin,0.36,0.42019337016574587
+compound_heterozygous,Ferritin,0.37,0.4307722250125566
+compound_heterozygous,Ferritin,0.38,0.44028084714548804
+compound_heterozygous,Ferritin,0.39,0.45823361376192867
+compound_heterozygous,Ferritin,0.4,0.469060773480663
+compound_heterozygous,Ferritin,0.41000000000000003,0.4812582872928178
+compound_heterozygous,Ferritin,0.42,0.48892034990791894
+compound_heterozygous,Ferritin,0.43,0.49427729931751707
+compound_heterozygous,Ferritin,0.44,0.5055386740331492
+compound_heterozygous,Ferritin,0.45,0.5196579460513487
+compound_heterozygous,Ferritin,0.46,0.5288087016574586
+compound_heterozygous,Ferritin,0.47000000000000003,0.5385200276243094
+compound_heterozygous,Ferritin,0.48,0.5509944751381215
+compound_heterozygous,Ferritin,0.49,0.5605399689226519
+compound_heterozygous,Ferritin,0.5,0.570096685082873
+compound_heterozygous,Ferritin,0.51,0.5768655041436465
+compound_heterozygous,Ferritin,0.52,0.5865300798035604
+compound_heterozygous,Ferritin,0.53,0.5938394787412924
+compound_heterozygous,Ferritin,0.54,0.6028157063930545
+compound_heterozygous,Ferritin,0.55,0.6136078499079191
+compound_heterozygous,Ferritin,0.56,0.6221063535911602
+compound_heterozygous,Ferritin,0.5700000000000001,0.6286312154696132
+compound_heterozygous,Ferritin,0.58,0.6387361878453037
+compound_heterozygous,Ferritin,0.59,0.6463374769797422
+compound_heterozygous,Ferritin,0.6,0.6546040515653775
+compound_heterozygous,Ferritin,0.61,0.6617325621546961
+compound_heterozygous,Ferritin,0.62,0.6693987875997545
+compound_heterozygous,Ferritin,0.63,0.6742717925107428
+compound_heterozygous,Ferritin,0.64,0.6833443830570902
+compound_heterozygous,Ferritin,0.65,0.6919958563535912
+compound_heterozygous,Ferritin,0.66,0.7017631215469613
+compound_heterozygous,Ferritin,0.67,0.7056401402464938
+compound_heterozygous,Ferritin,0.68,0.7136955187231431
+compound_heterozygous,Ferritin,0.6900000000000001,0.7196047286317843
+compound_heterozygous,Ferritin,0.7000000000000001,0.729953540934204
+compound_heterozygous,Ferritin,0.71,0.7376701406328477
+compound_heterozygous,Ferritin,0.72,0.7498794575590154
+compound_heterozygous,Ferritin,0.73,0.7585495420180285
+compound_heterozygous,Ferritin,0.74,0.7668629143646408
+compound_heterozygous,Ferritin,0.75,0.7748618784530387
+compound_heterozygous,Ferritin,0.76,0.7881325966850828
+compound_heterozygous,Ferritin,0.77,0.7959288674033149
+compound_heterozygous,Ferritin,0.78,0.8045545580110498
+compound_heterozygous,Ferritin,0.79,0.8136588397790057
+compound_heterozygous,Ferritin,0.8,0.8230372201221285
+compound_heterozygous,Ferritin,0.81,0.8344472260589318
+compound_heterozygous,Ferritin,0.8200000000000001,0.8428959484346226
+compound_heterozygous,Ferritin,0.8300000000000001,0.849366367403315
+compound_heterozygous,Ferritin,0.84,0.8583057090239411
+compound_heterozygous,Ferritin,0.85,0.8662531874203145
+compound_heterozygous,Ferritin,0.86,0.8753133632596686
+compound_heterozygous,Ferritin,0.87,0.8848369103272419
+compound_heterozygous,Ferritin,0.88,0.8905417434008595
+compound_heterozygous,Ferritin,0.89,0.9026191298342544
+compound_heterozygous,Ferritin,0.9,0.9103147198105762
+compound_heterozygous,Ferritin,0.91,0.9158857044198894
+compound_heterozygous,Ferritin,0.92,0.9245662983425414
+compound_heterozygous,Ferritin,0.93,0.933192679558011
+compound_heterozygous,Ferritin,0.9400000000000001,0.9429370307408981
+compound_heterozygous,Ferritin,0.9500000000000001,0.9476807090239411
+compound_heterozygous,Ferritin,0.96,0.9622882136279927
+compound_heterozygous,Ferritin,0.97,0.9701358195211783
+compound_heterozygous,Ferritin,0.98,0.9776223362273085
+compound_heterozygous,Ferritin,0.99,0.9895151933701656
+compound_heterozygous,Ferritin,1.0,1.0
+compound_heterozygous,Age,0.0,0.0
+compound_heterozygous,Age,0.01,0.011261907029910413
+compound_heterozygous,Age,0.02,0.020117403314917074
+compound_heterozygous,Age,0.03,0.027781422651933643
+compound_heterozygous,Age,0.04,0.03725927387529598
+compound_heterozygous,Age,0.05,0.04483770718232041
+compound_heterozygous,Age,0.06,0.05627532228360963
+compound_heterozygous,Age,0.07,0.0674544198895028
+compound_heterozygous,Age,0.08,0.0788555643251776
+compound_heterozygous,Age,0.09,0.08988173342541432
+compound_heterozygous,Age,0.1,0.09697513812154697
+compound_heterozygous,Age,0.11,0.1078273480662983
+compound_heterozygous,Age,0.12,0.11817679558011049
+compound_heterozygous,Age,0.13,0.12473066298342543
+compound_heterozygous,Age,0.14,0.13490883977900558
+compound_heterozygous,Age,0.15,0.14766574585635361
+compound_heterozygous,Age,0.16,0.1589686924493554
+compound_heterozygous,Age,0.17,0.16781176006314133
+compound_heterozygous,Age,0.18,0.17847660058498538
+compound_heterozygous,Age,0.19,0.18794544198895036
+compound_heterozygous,Age,0.2,0.20469613259668562
+compound_heterozygous,Age,0.21,0.21327486187845304
+compound_heterozygous,Age,0.22,0.223756906077348
+compound_heterozygous,Age,0.23,0.23374654696132602
+compound_heterozygous,Age,0.24,0.245658379373849
+compound_heterozygous,Age,0.25,0.25865726124704025
+compound_heterozygous,Age,0.26,0.2719820441988951
+compound_heterozygous,Age,0.27,0.28632251381215473
+compound_heterozygous,Age,0.28,0.2976519337016574
+compound_heterozygous,Age,0.29,0.30531595303867415
+compound_heterozygous,Age,0.3,0.3223011049723757
+compound_heterozygous,Age,0.31,0.33338167587476986
+compound_heterozygous,Age,0.32,0.3444613259668509
+compound_heterozygous,Age,0.33,0.3554686266771902
+compound_heterozygous,Age,0.34,0.3643554327808474
+compound_heterozygous,Age,0.35000000000000003,0.37414205269868256
+compound_heterozygous,Age,0.36,0.3868278084714549
+compound_heterozygous,Age,0.37,0.3941839318600368
+compound_heterozygous,Age,0.38,0.4082219152854512
+compound_heterozygous,Age,0.39,0.4145338397790056
+compound_heterozygous,Age,0.4,0.42683504340962897
+compound_heterozygous,Age,0.41000000000000003,0.43707527624309395
+compound_heterozygous,Age,0.42,0.442881717729784
+compound_heterozygous,Age,0.43,0.45332832304192394
+compound_heterozygous,Age,0.44,0.4592633517495396
+compound_heterozygous,Age,0.45,0.46473872007366485
+compound_heterozygous,Age,0.46,0.47431198204419894
+compound_heterozygous,Age,0.47000000000000003,0.4882596685082873
+compound_heterozygous,Age,0.48,0.500764640883978
+compound_heterozygous,Age,0.49,0.5072638121546962
+compound_heterozygous,Age,0.5,0.5207182320441989
+compound_heterozygous,Age,0.51,0.5296961325966851
+compound_heterozygous,Age,0.52,0.5387845303867405
+compound_heterozygous,Age,0.53,0.553335635359116
+compound_heterozygous,Age,0.54,0.5615765588003158
+compound_heterozygous,Age,0.55,0.5712016574585641
+compound_heterozygous,Age,0.56,0.580773480662984
+compound_heterozygous,Age,0.5700000000000001,0.5882640632847815
+compound_heterozygous,Age,0.58,0.6022868981846883
+compound_heterozygous,Age,0.59,0.611116482504604
+compound_heterozygous,Age,0.6,0.6228936464088397
+compound_heterozygous,Age,0.61,0.6332872928176796
+compound_heterozygous,Age,0.62,0.6415745856353591
+compound_heterozygous,Age,0.63,0.6492785451197053
+compound_heterozygous,Age,0.64,0.6560534069981584
+compound_heterozygous,Age,0.65,0.6636740331491713
+compound_heterozygous,Age,0.66,0.6699442201444964
+compound_heterozygous,Age,0.67,0.677138294198895
+compound_heterozygous,Age,0.68,0.6871546961325967
+compound_heterozygous,Age,0.6900000000000001,0.6973442295887047
+compound_heterozygous,Age,0.7000000000000001,0.7093508287292819
+compound_heterozygous,Age,0.71,0.7186533149171269
+compound_heterozygous,Age,0.72,0.7340745856353591
+compound_heterozygous,Age,0.73,0.7428228591160222
+compound_heterozygous,Age,0.74,0.7556405386740331
+compound_heterozygous,Age,0.75,0.7679558011049724
+compound_heterozygous,Age,0.76,0.7734806629834254
+compound_heterozygous,Age,0.77,0.7824585635359116
+compound_heterozygous,Age,0.78,0.7974775552486187
+compound_heterozygous,Age,0.79,0.805581261510129
+compound_heterozygous,Age,0.8,0.8156077348066298
+compound_heterozygous,Age,0.81,0.8264571823204421
+compound_heterozygous,Age,0.8200000000000001,0.8355697513812155
+compound_heterozygous,Age,0.8300000000000001,0.8406443370165746
+compound_heterozygous,Age,0.84,0.8475414364640884
+compound_heterozygous,Age,0.85,0.8514053867403315
+compound_heterozygous,Age,0.86,0.8584254143646409
+compound_heterozygous,Age,0.87,0.8687975751995088
+compound_heterozygous,Age,0.88,0.8756029305789095
+compound_heterozygous,Age,0.89,0.8900492058011049
+compound_heterozygous,Age,0.9,0.9031365101289135
+compound_heterozygous,Age,0.91,0.9093991712707188
+compound_heterozygous,Age,0.92,0.9184921731123389
+compound_heterozygous,Age,0.93,0.9284606024730334
+compound_heterozygous,Age,0.9400000000000001,0.941344958563536
+compound_heterozygous,Age,0.9500000000000001,0.9468232044198897
+compound_heterozygous,Age,0.96,0.9516184035054297
+compound_heterozygous,Age,0.97,0.9648411602209945
+compound_heterozygous,Age,0.98,0.97457182320442
+compound_heterozygous,Age,0.99,0.9843222178374113
+compound_heterozygous,Age,1.0,1.0
+compound_heterozygous,Sex,0.0,0.0
+compound_heterozygous,Sex,0.01,0.0096685082872928
+compound_heterozygous,Sex,0.02,0.0207182320441988
+compound_heterozygous,Sex,0.03,0.0269337016574585
+compound_heterozygous,Sex,0.04,0.0379834254143646
+compound_heterozygous,Sex,0.05,0.0462707182320442
+compound_heterozygous,Sex,0.06,0.0511049723756906
+compound_heterozygous,Sex,0.07,0.0642265193370165
+compound_heterozygous,Sex,0.08,0.0773480662983425
+compound_heterozygous,Sex,0.09,0.0842541436464088
+compound_heterozygous,Sex,0.1,0.0948031767955801
+compound_heterozygous,Sex,0.11,0.1022099447513812
+compound_heterozygous,Sex,0.12,0.1077348066298342
+compound_heterozygous,Sex,0.13,0.1187845303867403
+compound_heterozygous,Sex,0.14,0.12801795580110506
+compound_heterozygous,Sex,0.15,0.1401933701657458
+compound_heterozygous,Sex,0.16,0.1498618784530386
+compound_heterozygous,Sex,0.17,0.1643646408839779
+compound_heterozygous,Sex,0.18,0.1761049723756906
+compound_heterozygous,Sex,0.19,0.1878453038674033
+compound_heterozygous,Sex,0.2,0.2002762430939226
+compound_heterozygous,Sex,0.21,0.2140883977900552
+compound_heterozygous,Sex,0.22,0.2196132596685082
+compound_heterozygous,Sex,0.23,0.2306629834254143
+compound_heterozygous,Sex,0.24,0.2389502762430939
+compound_heterozygous,Sex,0.25,0.2458563535911602
+compound_heterozygous,Sex,0.26,0.2569060773480663
+compound_heterozygous,Sex,0.27,0.2641735727440148
+compound_heterozygous,Sex,0.28,0.2810773480662983
+compound_heterozygous,Sex,0.29,0.29288501381215476
+compound_heterozygous,Sex,0.3,0.3017955801104972
+compound_heterozygous,Sex,0.31,0.3142265193370165
+compound_heterozygous,Sex,0.32,0.3252762430939226
+compound_heterozygous,Sex,0.33,0.33668162983425426
+compound_heterozygous,Sex,0.34,0.3466850828729281
+compound_heterozygous,Sex,0.35000000000000003,0.3666609116022101
+compound_heterozygous,Sex,0.36,0.3844198895027622
+compound_heterozygous,Sex,0.37,0.4012430939226519
+compound_heterozygous,Sex,0.38,0.41726058931860033
+compound_heterozygous,Sex,0.39,0.4330110497237569
+compound_heterozygous,Sex,0.4,0.444060773480663
+compound_heterozygous,Sex,0.41000000000000003,0.456102670349908
+compound_heterozygous,Sex,0.42,0.4599447513812155
+compound_heterozygous,Sex,0.43,0.4671109576427256
+compound_heterozygous,Sex,0.44,0.4744475138121547
+compound_heterozygous,Sex,0.45,0.48255352209944746
+compound_heterozygous,Sex,0.46,0.49410566298342545
+compound_heterozygous,Sex,0.47000000000000003,0.5013812154696132
+compound_heterozygous,Sex,0.48,0.5089779005524862
+compound_heterozygous,Sex,0.49,0.5193370165745856
+compound_heterozygous,Sex,0.5,0.5248618784530387
+compound_heterozygous,Sex,0.51,0.5352209944751382
+compound_heterozygous,Sex,0.52,0.538439226519337
+compound_heterozygous,Sex,0.53,0.551875
+compound_heterozygous,Sex,0.54,0.5621546961325967
+compound_heterozygous,Sex,0.55,0.5697513812154696
+compound_heterozygous,Sex,0.56,0.5752209944751392
+compound_heterozygous,Sex,0.5700000000000001,0.5835635359116023
+compound_heterozygous,Sex,0.58,0.5899136740331491
+compound_heterozygous,Sex,0.59,0.5980662983425414
+compound_heterozygous,Sex,0.6,0.6083333333333333
+compound_heterozygous,Sex,0.61,0.6167127071823204
+compound_heterozygous,Sex,0.62,0.6243093922651933
+compound_heterozygous,Sex,0.63,0.6312154696132597
+compound_heterozygous,Sex,0.64,0.6406215469613259
+compound_heterozygous,Sex,0.65,0.649171270718232
+compound_heterozygous,Sex,0.66,0.654046961325967
+compound_heterozygous,Sex,0.67,0.6616022099447514
+compound_heterozygous,Sex,0.68,0.6719613259668509
+compound_heterozygous,Sex,0.6900000000000001,0.6830110497237569
+compound_heterozygous,Sex,0.7000000000000001,0.694060773480663
+compound_heterozygous,Sex,0.71,0.699585635359116
+compound_heterozygous,Sex,0.72,0.7113259668508287
+compound_heterozygous,Sex,0.73,0.7230662983425414
+compound_heterozygous,Sex,0.74,0.7341160220994475
+compound_heterozygous,Sex,0.75,0.7422997237569061
+compound_heterozygous,Sex,0.76,0.749682320441989
+compound_heterozygous,Sex,0.77,0.7617403314917127
+compound_heterozygous,Sex,0.78,0.7727900552486188
+compound_heterozygous,Sex,0.79,0.7838397790055248
+compound_heterozygous,Sex,0.8,0.7906077348066299
+compound_heterozygous,Sex,0.81,0.7984392265193373
+compound_heterozygous,Sex,0.8200000000000001,0.8102486187845314
+compound_heterozygous,Sex,0.8300000000000001,0.8238950276243094
+compound_heterozygous,Sex,0.84,0.8397790055248618
+compound_heterozygous,Sex,0.85,0.8515193370165746
+compound_heterozygous,Sex,0.86,0.8612776243093924
+compound_heterozygous,Sex,0.87,0.8743093922651933
+compound_heterozygous,Sex,0.88,0.8840055248618784
+compound_heterozygous,Sex,0.89,0.8915745856353591
+compound_heterozygous,Sex,0.9,0.9019337016574586
+compound_heterozygous,Sex,0.91,0.9046961325966852
+compound_heterozygous,Sex,0.92,0.912292817679558
+compound_heterozygous,Sex,0.93,0.9240331491712708
+compound_heterozygous,Sex,0.9400000000000001,0.9371546961325968
+compound_heterozygous,Sex,0.9500000000000001,0.9422997237569065
+compound_heterozygous,Sex,0.96,0.9509668508287292
+compound_heterozygous,Sex,0.97,0.9594734116022099
+compound_heterozygous,Sex,0.98,0.975828729281768
+compound_heterozygous,Sex,0.99,0.9844924033149174
+compound_heterozygous,Sex,1.0,1.0
+compound_heterozygous,Family history,0.0,0.0006906077348066
+compound_heterozygous,Family history,0.01,0.0138121546961325
+compound_heterozygous,Family history,0.02,0.0248618784530386
+compound_heterozygous,Family history,0.03,0.0375448895027625
+compound_heterozygous,Family history,0.04,0.046022099447513835
+compound_heterozygous,Family history,0.05,0.054937845303867396
+compound_heterozygous,Family history,0.06,0.06686464088397782
+compound_heterozygous,Family history,0.07,0.074585635359116
+compound_heterozygous,Family history,0.08,0.0787292817679558
+compound_heterozygous,Family history,0.09,0.08921961325966851
+compound_heterozygous,Family history,0.1,0.09744475138121558
+compound_heterozygous,Family history,0.11,0.1139502762430939
+compound_heterozygous,Family history,0.12,0.12595303867403326
+compound_heterozygous,Family history,0.13,0.1381215469613259
+compound_heterozygous,Family history,0.14,0.15393646408839814
+compound_heterozygous,Family history,0.15,0.1758632596685084
+compound_heterozygous,Family history,0.16,0.1830110497237569
+compound_heterozygous,Family history,0.17,0.199585635359116
+compound_heterozygous,Family history,0.18,0.218232044198895
+compound_heterozygous,Family history,0.19,0.23766919889502766
+compound_heterozygous,Family history,0.2,0.2541436464088398
+compound_heterozygous,Family history,0.21,0.2638121546961326
+compound_heterozygous,Family history,0.22,0.2755662983425417
+compound_heterozygous,Family history,0.23,0.2907458563535912
+compound_heterozygous,Family history,0.24,0.3058839779005526
+compound_heterozygous,Family history,0.25,0.3162983425414364
+compound_heterozygous,Family history,0.26,0.3301104972375691
+compound_heterozygous,Family history,0.27,0.3441194751381217
+compound_heterozygous,Family history,0.28,0.3632596685082873
+compound_heterozygous,Family history,0.29,0.3791436464088398
+compound_heterozygous,Family history,0.3,0.402463167587477
+compound_heterozygous,Family history,0.31,0.4267955801104972
+compound_heterozygous,Family history,0.32,0.4324493554327808
+compound_heterozygous,Family history,0.33,0.4426795580110497
+compound_heterozygous,Family history,0.34,0.4461325966850828
+compound_heterozygous,Family history,0.35000000000000003,0.4523480662983425
+compound_heterozygous,Family history,0.36,0.457182320441989
+compound_heterozygous,Family history,0.37,0.462707182320442
+compound_heterozygous,Family history,0.38,0.4707044198895027
+compound_heterozygous,Family history,0.39,0.4806629834254143
+compound_heterozygous,Family history,0.4,0.4882596685082873
+compound_heterozygous,Family history,0.41000000000000003,0.4956657458563538
+compound_heterozygous,Family history,0.42,0.5073918047882137
+compound_heterozygous,Family history,0.43,0.5145027624309392
+compound_heterozygous,Family history,0.44,0.524171270718232
+compound_heterozygous,Family history,0.45,0.5379661602209944
+compound_heterozygous,Family history,0.46,0.5483425414364641
+compound_heterozygous,Family history,0.47000000000000003,0.5551542357274402
+compound_heterozygous,Family history,0.48,0.5593922651933702
+compound_heterozygous,Family history,0.49,0.5642265193370166
+compound_heterozygous,Family history,0.5,0.5725138121546962
+compound_heterozygous,Family history,0.51,0.5799861878453038
+compound_heterozygous,Family history,0.52,0.5906975138121547
+compound_heterozygous,Family history,0.53,0.5959944751381215
+compound_heterozygous,Family history,0.54,0.6057113259668508
+compound_heterozygous,Family history,0.55,0.6160220994475138
+compound_heterozygous,Family history,0.56,0.627707182320443
+compound_heterozygous,Family history,0.5700000000000001,0.638121546961326
+compound_heterozygous,Family history,0.58,0.6457182320441989
+compound_heterozygous,Family history,0.59,0.6505524861878453
+compound_heterozygous,Family history,0.6,0.6603245856353591
+compound_heterozygous,Family history,0.61,0.6657458563535912
+compound_heterozygous,Family history,0.62,0.669889502762431
+compound_heterozygous,Family history,0.63,0.6747237569060773
+compound_heterozygous,Family history,0.64,0.6823204419889503
+compound_heterozygous,Family history,0.65,0.68853591160221
+compound_heterozygous,Family history,0.66,0.6989157458563536
+compound_heterozygous,Family history,0.67,0.705110497237569
+compound_heterozygous,Family history,0.68,0.7140883977900553
+compound_heterozygous,Family history,0.6900000000000001,0.7196132596685083
+compound_heterozygous,Family history,0.7000000000000001,0.7292817679558011
+compound_heterozygous,Family history,0.71,0.7354972375690608
+compound_heterozygous,Family history,0.72,0.7437845303867403
+compound_heterozygous,Family history,0.73,0.7486187845303868
+compound_heterozygous,Family history,0.74,0.7569060773480663
+compound_heterozygous,Family history,0.75,0.765481123388582
+compound_heterozygous,Family history,0.76,0.774171270718232
+compound_heterozygous,Family history,0.77,0.7800535220994476
+compound_heterozygous,Family history,0.78,0.789364640883978
+compound_heterozygous,Family history,0.79,0.794889502762431
+compound_heterozygous,Family history,0.8,0.8031767955801105
+compound_heterozygous,Family history,0.81,0.8140262430939228
+compound_heterozygous,Family history,0.8200000000000001,0.8218232044198895
+compound_heterozygous,Family history,0.8300000000000001,0.8314917127071824
+compound_heterozygous,Family history,0.84,0.8380110497237568
+compound_heterozygous,Family history,0.85,0.8453038674033149
+compound_heterozygous,Family history,0.86,0.8565331491712709
+compound_heterozygous,Family history,0.87,0.8687845303867403
+compound_heterozygous,Family history,0.88,0.8760497237569062
+compound_heterozygous,Family history,0.89,0.8789692679558011
+compound_heterozygous,Family history,0.9,0.8893761510128914
+compound_heterozygous,Family history,0.91,0.899171270718232
+compound_heterozygous,Family history,0.92,0.9079558011049726
+compound_heterozygous,Family history,0.93,0.9171270718232044
+compound_heterozygous,Family history,0.9400000000000001,0.9290538674033153
+compound_heterozygous,Family history,0.9500000000000001,0.935583563535912
+compound_heterozygous,Family history,0.96,0.944060773480663
+compound_heterozygous,Family history,0.97,0.9544198895027624
+compound_heterozygous,Family history,0.98,0.975828729281768
+compound_heterozygous,Family history,0.99,0.9891384668508288
+compound_heterozygous,Family history,1.0,1.0
+compound_heterozygous,All five combined,0.0,0.0013812154696132
+compound_heterozygous,All five combined,0.01,0.03272237569060776
+compound_heterozygous,All five combined,0.02,0.055664709944751374
+compound_heterozygous,All five combined,0.03,0.09203959484346226
+compound_heterozygous,All five combined,0.04,0.11578453038674034
+compound_heterozygous,All five combined,0.05,0.14578729281767966
+compound_heterozygous,All five combined,0.06,0.1683218232044199
+compound_heterozygous,All five combined,0.07,0.1930120363062352
+compound_heterozygous,All five combined,0.08,0.21716574585635362
+compound_heterozygous,All five combined,0.09,0.24451887661141802
+compound_heterozygous,All five combined,0.1,0.26429558011049725
+compound_heterozygous,All five combined,0.11,0.2954661602209945
+compound_heterozygous,All five combined,0.12,0.3114502762430939
+compound_heterozygous,All five combined,0.13,0.3305317679558012
+compound_heterozygous,All five combined,0.14,0.3449968608739328
+compound_heterozygous,All five combined,0.15,0.3641747237569061
+compound_heterozygous,All five combined,0.16,0.3843646408839781
+compound_heterozygous,All five combined,0.17,0.3988052486187847
+compound_heterozygous,All five combined,0.18,0.41491606459838504
+compound_heterozygous,All five combined,0.19,0.4252509208103131
+compound_heterozygous,All five combined,0.2,0.44212707182320465
+compound_heterozygous,All five combined,0.21,0.4562306629834254
+compound_heterozygous,All five combined,0.22,0.4716896869244936
+compound_heterozygous,All five combined,0.23,0.48685428176795587
+compound_heterozygous,All five combined,0.24,0.5018997990959317
+compound_heterozygous,All five combined,0.25,0.5205141888498241
+compound_heterozygous,All five combined,0.26,0.5319720687538366
+compound_heterozygous,All five combined,0.27,0.5422475445058318
+compound_heterozygous,All five combined,0.28,0.5564198895027626
+compound_heterozygous,All five combined,0.29,0.5661110659733507
+compound_heterozygous,All five combined,0.3,0.5768370165745856
+compound_heterozygous,All five combined,0.31,0.5817153633659159
+compound_heterozygous,All five combined,0.32,0.5931321716957076
+compound_heterozygous,All five combined,0.33,0.6039377589779006
+compound_heterozygous,All five combined,0.34,0.6147897483118477
+compound_heterozygous,All five combined,0.35000000000000003,0.6239838200473561
+compound_heterozygous,All five combined,0.36,0.6361372007366483
+compound_heterozygous,All five combined,0.37,0.6536444356748223
+compound_heterozygous,All five combined,0.38,0.6652779696132597
+compound_heterozygous,All five combined,0.39,0.6720404802379941
+compound_heterozygous,All five combined,0.4,0.6828453038674034
+compound_heterozygous,All five combined,0.41000000000000003,0.6906831261510129
+compound_heterozygous,All five combined,0.42,0.6972764942240081
+compound_heterozygous,All five combined,0.43,0.7044701593215984
+compound_heterozygous,All five combined,0.44,0.7114343391415214
+compound_heterozygous,All five combined,0.45,0.7205593922651934
+compound_heterozygous,All five combined,0.46,0.7279665438919583
+compound_heterozygous,All five combined,0.47000000000000003,0.7350725138121548
+compound_heterozygous,All five combined,0.48,0.7419475138121546
+compound_heterozygous,All five combined,0.49,0.7481502337441565
+compound_heterozygous,All five combined,0.5,0.7612380713209442
+compound_heterozygous,All five combined,0.51,0.7664961523283347
+compound_heterozygous,All five combined,0.52,0.7756860036832413
+compound_heterozygous,All five combined,0.53,0.7827364003399915
+compound_heterozygous,All five combined,0.54,0.7904126381215469
+compound_heterozygous,All five combined,0.55,0.7938938766114181
+compound_heterozygous,All five combined,0.56,0.8005662983425414
+compound_heterozygous,All five combined,0.5700000000000001,0.8076064989822623
+compound_heterozygous,All five combined,0.58,0.811890730509515
+compound_heterozygous,All five combined,0.59,0.8162078729281769
+compound_heterozygous,All five combined,0.6,0.8215409560413164
+compound_heterozygous,All five combined,0.61,0.826641344383057
+compound_heterozygous,All five combined,0.62,0.8347467771639042
+compound_heterozygous,All five combined,0.63,0.8429623125493292
+compound_heterozygous,All five combined,0.64,0.8460658379373849
+compound_heterozygous,All five combined,0.65,0.8503121546961326
+compound_heterozygous,All five combined,0.66,0.8544686924493554
+compound_heterozygous,All five combined,0.67,0.8600882094424912
+compound_heterozygous,All five combined,0.68,0.8696740331491714
+compound_heterozygous,All five combined,0.6900000000000001,0.8765176104972376
+compound_heterozygous,All five combined,0.7000000000000001,0.8813996316758748
+compound_heterozygous,All five combined,0.71,0.884957062214749
+compound_heterozygous,All five combined,0.72,0.892624309392265
+compound_heterozygous,All five combined,0.73,0.8960538674033149
+compound_heterozygous,All five combined,0.74,0.9012504316298343
+compound_heterozygous,All five combined,0.75,0.9055162292817679
+compound_heterozygous,All five combined,0.76,0.9120871700429712
+compound_heterozygous,All five combined,0.77,0.9197085635359117
+compound_heterozygous,All five combined,0.78,0.9242127071823205
+compound_heterozygous,All five combined,0.79,0.9282507161857989
+compound_heterozygous,All five combined,0.8,0.9326427255985267
+compound_heterozygous,All five combined,0.81,0.9378202693370165
+compound_heterozygous,All five combined,0.8200000000000001,0.9420635359116023
+compound_heterozygous,All five combined,0.8300000000000001,0.946427140883978
+compound_heterozygous,All five combined,0.84,0.9490431943746861
+compound_heterozygous,All five combined,0.85,0.9519879636937648
+compound_heterozygous,All five combined,0.86,0.9542788381048048
+compound_heterozygous,All five combined,0.87,0.958824149462053
+compound_heterozygous,All five combined,0.88,0.9631031307550645
+compound_heterozygous,All five combined,0.89,0.9651837254715183
+compound_heterozygous,All five combined,0.9,0.9684362877630188
+compound_heterozygous,All five combined,0.91,0.9717903314917127
+compound_heterozygous,All five combined,0.92,0.9752866022099447
+compound_heterozygous,All five combined,0.93,0.9793361533149173
+compound_heterozygous,All five combined,0.9400000000000001,0.9835072248193797
+compound_heterozygous,All five combined,0.9500000000000001,0.9871419915563432
+compound_heterozygous,All five combined,0.96,0.9879803560466542
+compound_heterozygous,All five combined,0.97,0.9906830110497238
+compound_heterozygous,All five combined,0.98,0.9928157063930544
+compound_heterozygous,All five combined,0.99,0.9962148012831936
+compound_heterozygous,All five combined,1.0,1.0
+h63d_homozygous,TSAT,0.0,0.0
+h63d_homozygous,TSAT,0.01,0.013568816923478702
+h63d_homozygous,TSAT,0.02,0.026942804909898102
+h63d_homozygous,TSAT,0.03,0.040553016453382114
+h63d_homozygous,TSAT,0.04,0.04921389396709322
+h63d_homozygous,TSAT,0.05,0.06110603290676427
+h63d_homozygous,TSAT,0.06,0.0767824497257769
+h63d_homozygous,TSAT,0.07,0.09608409506398535
+h63d_homozygous,TSAT,0.08,0.11301645338208416
+h63d_homozygous,TSAT,0.09,0.1335048315487072
+h63d_homozygous,TSAT,0.1,0.14586720603679643
+h63d_homozygous,TSAT,0.11,0.15399612861598025
+h63d_homozygous,TSAT,0.12,0.1646327562103452
+h63d_homozygous,TSAT,0.13,0.17727909811090806
+h63d_homozygous,TSAT,0.14,0.19478671541742837
+h63d_homozygous,TSAT,0.15,0.21602376599634368
+h63d_homozygous,TSAT,0.16,0.22879449403161625
+h63d_homozygous,TSAT,0.17,0.24664533820840948
+h63d_homozygous,TSAT,0.18,0.25559937320449205
+h63d_homozygous,TSAT,0.19,0.26724456632134874
+h63d_homozygous,TSAT,0.2,0.2785624939863369
+h63d_homozygous,TSAT,0.21,0.28730042656916516
+h63d_homozygous,TSAT,0.22,0.2991264390533129
+h63d_homozygous,TSAT,0.23,0.3111389396709323
+h63d_homozygous,TSAT,0.24,0.3255016668458974
+h63d_homozygous,TSAT,0.25,0.3316819012797075
+h63d_homozygous,TSAT,0.26,0.33885022199007575
+h63d_homozygous,TSAT,0.27,0.3490320942514727
+h63d_homozygous,TSAT,0.28,0.3656307129798903
+h63d_homozygous,TSAT,0.29,0.3782047531992687
+h63d_homozygous,TSAT,0.3,0.3893967093235831
+h63d_homozygous,TSAT,0.31,0.399217811439018
+h63d_homozygous,TSAT,0.32,0.413162705667276
+h63d_homozygous,TSAT,0.33,0.4241366129300315
+h63d_homozygous,TSAT,0.34,0.4369287020109689
+h63d_homozygous,TSAT,0.35000000000000003,0.4570383912248629
+h63d_homozygous,TSAT,0.36,0.46575607208148334
+h63d_homozygous,TSAT,0.37,0.4789762340036563
+h63d_homozygous,TSAT,0.38,0.4877206581352833
+h63d_homozygous,TSAT,0.39,0.49089655697745277
+h63d_homozygous,TSAT,0.4,0.5027422303473492
+h63d_homozygous,TSAT,0.41000000000000003,0.5100548446069469
+h63d_homozygous,TSAT,0.42,0.5189652650822668
+h63d_homozygous,TSAT,0.43,0.5345094454600854
+h63d_homozygous,TSAT,0.44,0.5484460694698354
+h63d_homozygous,TSAT,0.45,0.5557586837294333
+h63d_homozygous,TSAT,0.46,0.5662860357193082
+h63d_homozygous,TSAT,0.47000000000000003,0.5753062157221208
+h63d_homozygous,TSAT,0.48,0.5921023765996344
+h63d_homozygous,TSAT,0.49,0.6049347088012537
+h63d_homozygous,TSAT,0.5,0.6113650213284584
+h63d_homozygous,TSAT,0.51,0.6243612888482633
+h63d_homozygous,TSAT,0.52,0.6320211253300833
+h63d_homozygous,TSAT,0.53,0.6445292504570385
+h63d_homozygous,TSAT,0.54,0.6530855169612025
+h63d_homozygous,TSAT,0.55,0.6672760511882998
+h63d_homozygous,TSAT,0.56,0.6766430530164534
+h63d_homozygous,TSAT,0.5700000000000001,0.6873857404021938
+h63d_homozygous,TSAT,0.58,0.696526508226691
+h63d_homozygous,TSAT,0.59,0.7069287020109688
+h63d_homozygous,TSAT,0.6,0.7175643369427647
+h63d_homozygous,TSAT,0.61,0.7257769652650823
+h63d_homozygous,TSAT,0.62,0.736466788543571
+h63d_homozygous,TSAT,0.63,0.7440585009140768
+h63d_homozygous,TSAT,0.64,0.7477148080438757
+h63d_homozygous,TSAT,0.65,0.753199268738574
+h63d_homozygous,TSAT,0.66,0.7663193174893359
+h63d_homozygous,TSAT,0.67,0.7714808043875686
+h63d_homozygous,TSAT,0.68,0.7828669749435424
+h63d_homozygous,TSAT,0.6900000000000001,0.7930135668238238
+h63d_homozygous,TSAT,0.7000000000000001,0.8022359724370695
+h63d_homozygous,TSAT,0.71,0.8095079219987813
+h63d_homozygous,TSAT,0.72,0.82018281535649
+h63d_homozygous,TSAT,0.73,0.8279327801996906
+h63d_homozygous,TSAT,0.74,0.8303789263752701
+h63d_homozygous,TSAT,0.75,0.8318098720292505
+h63d_homozygous,TSAT,0.76,0.8368635243621334
+h63d_homozygous,TSAT,0.77,0.8423972866352353
+h63d_homozygous,TSAT,0.78,0.849755692205418
+h63d_homozygous,TSAT,0.79,0.8548928037227855
+h63d_homozygous,TSAT,0.8,0.8647166361974405
+h63d_homozygous,TSAT,0.81,0.8776700182815357
+h63d_homozygous,TSAT,0.8200000000000001,0.8873387307390965
+h63d_homozygous,TSAT,0.8300000000000001,0.8947878804172492
+h63d_homozygous,TSAT,0.84,0.8987793559274363
+h63d_homozygous,TSAT,0.85,0.9049474405850091
+h63d_homozygous,TSAT,0.86,0.9081590493601464
+h63d_homozygous,TSAT,0.87,0.919561243144424
+h63d_homozygous,TSAT,0.88,0.9212692609036301
+h63d_homozygous,TSAT,0.89,0.9259582571602681
+h63d_homozygous,TSAT,0.9,0.9382180313672664
+h63d_homozygous,TSAT,0.91,0.943327239488117
+h63d_homozygous,TSAT,0.92,0.9455954328233748
+h63d_homozygous,TSAT,0.93,0.9493466179159049
+h63d_homozygous,TSAT,0.9400000000000001,0.9551223847247613
+h63d_homozygous,TSAT,0.9500000000000001,0.9621069469835467
+h63d_homozygous,TSAT,0.96,0.9742127970749541
+h63d_homozygous,TSAT,0.97,0.9787358219810894
+h63d_homozygous,TSAT,0.98,0.9809506398537478
+h63d_homozygous,TSAT,0.99,0.9918144424131624
+h63d_homozygous,TSAT,1.0,1.0
+h63d_homozygous,Ferritin,0.0,0.0
+h63d_homozygous,Ferritin,0.01,0.007562026638809116
+h63d_homozygous,Ferritin,0.02,0.014858013406459487
+h63d_homozygous,Ferritin,0.03,0.02159375816139982
+h63d_homozygous,Ferritin,0.04,0.033322669104204776
+h63d_homozygous,Ferritin,0.05,0.048363802559415005
+h63d_homozygous,Ferritin,0.06,0.0660338949552843
+h63d_homozygous,Ferritin,0.07,0.0739878677081602
+h63d_homozygous,Ferritin,0.08,0.08236928702010972
+h63d_homozygous,Ferritin,0.09,0.09935283363802555
+h63d_homozygous,Ferritin,0.1,0.11179159049360148
+h63d_homozygous,Ferritin,0.11,0.11798395287426365
+h63d_homozygous,Ferritin,0.12,0.12549399888721086
+h63d_homozygous,Ferritin,0.13,0.1360860894133289
+h63d_homozygous,Ferritin,0.14,0.15164168190127975
+h63d_homozygous,Ferritin,0.15,0.16326194828937055
+h63d_homozygous,Ferritin,0.16,0.17140767824497255
+h63d_homozygous,Ferritin,0.17,0.18288145127267613
+h63d_homozygous,Ferritin,0.18,0.19292809262644728
+h63d_homozygous,Ferritin,0.19,0.2016101293249374
+h63d_homozygous,Ferritin,0.2,0.20961987013805708
+h63d_homozygous,Ferritin,0.21,0.22184948202315674
+h63d_homozygous,Ferritin,0.22,0.23794262410350162
+h63d_homozygous,Ferritin,0.23,0.24842971230636005
+h63d_homozygous,Ferritin,0.24,0.26258030817445804
+h63d_homozygous,Ferritin,0.25,0.27961293576246604
+h63d_homozygous,Ferritin,0.26,0.28792005983048025
+h63d_homozygous,Ferritin,0.27,0.29874854578693705
+h63d_homozygous,Ferritin,0.28,0.3105179768433881
+h63d_homozygous,Ferritin,0.29,0.3193967093235831
+h63d_homozygous,Ferritin,0.3,0.33522959458006235
+h63d_homozygous,Ferritin,0.31,0.3391908015010103
+h63d_homozygous,Ferritin,0.32,0.3526548852325818
+h63d_homozygous,Ferritin,0.33,0.3711425959780622
+h63d_homozygous,Ferritin,0.34,0.38001651235477973
+h63d_homozygous,Ferritin,0.35000000000000003,0.38970749542961636
+h63d_homozygous,Ferritin,0.36,0.4091760701002332
+h63d_homozygous,Ferritin,0.37,0.41939046684799575
+h63d_homozygous,Ferritin,0.38,0.4270201096892139
+h63d_homozygous,Ferritin,0.39,0.4394029517991706
+h63d_homozygous,Ferritin,0.4,0.44516383068485443
+h63d_homozygous,Ferritin,0.41000000000000003,0.450860450944546
+h63d_homozygous,Ferritin,0.42,0.4677569962030657
+h63d_homozygous,Ferritin,0.43,0.47540600243753806
+h63d_homozygous,Ferritin,0.44,0.4855708824995845
+h63d_homozygous,Ferritin,0.45,0.4957704905545399
+h63d_homozygous,Ferritin,0.46,0.5032975319926875
+h63d_homozygous,Ferritin,0.47000000000000003,0.5090783059110299
+h63d_homozygous,Ferritin,0.48,0.5145277269957343
+h63d_homozygous,Ferritin,0.49,0.5210237659963437
+h63d_homozygous,Ferritin,0.5,0.5329067641681902
+h63d_homozygous,Ferritin,0.51,0.5444814137720901
+h63d_homozygous,Ferritin,0.52,0.5536066858187517
+h63d_homozygous,Ferritin,0.53,0.566946306452705
+h63d_homozygous,Ferritin,0.54,0.5777099971134417
+h63d_homozygous,Ferritin,0.55,0.5830168688715306
+h63d_homozygous,Ferritin,0.56,0.601675448973008
+h63d_homozygous,Ferritin,0.5700000000000001,0.6145893425418106
+h63d_homozygous,Ferritin,0.58,0.623725776965265
+h63d_homozygous,Ferritin,0.59,0.6286760169104204
+h63d_homozygous,Ferritin,0.6,0.638241648662124
+h63d_homozygous,Ferritin,0.61,0.6552437538086532
+h63d_homozygous,Ferritin,0.62,0.6656384474757419
+h63d_homozygous,Ferritin,0.63,0.6689234206784481
+h63d_homozygous,Ferritin,0.64,0.6751953839122486
+h63d_homozygous,Ferritin,0.65,0.6793696844447977
+h63d_homozygous,Ferritin,0.66,0.6934483546617917
+h63d_homozygous,Ferritin,0.67,0.7060656473325577
+h63d_homozygous,Ferritin,0.68,0.7072441415988034
+h63d_homozygous,Ferritin,0.6900000000000001,0.7171969362667844
+h63d_homozygous,Ferritin,0.7000000000000001,0.7238117001828155
+h63d_homozygous,Ferritin,0.71,0.733607259107326
+h63d_homozygous,Ferritin,0.72,0.7436274415471952
+h63d_homozygous,Ferritin,0.73,0.7494059999400605
+h63d_homozygous,Ferritin,0.74,0.7626271642112055
+h63d_homozygous,Ferritin,0.75,0.7686319317489336
+h63d_homozygous,Ferritin,0.76,0.7764947142516493
+h63d_homozygous,Ferritin,0.77,0.7917896661214279
+h63d_homozygous,Ferritin,0.78,0.8067605118829982
+h63d_homozygous,Ferritin,0.79,0.8194360146252285
+h63d_homozygous,Ferritin,0.8,0.8254635675110995
+h63d_homozygous,Ferritin,0.81,0.8416412101197146
+h63d_homozygous,Ferritin,0.8200000000000001,0.854033109892342
+h63d_homozygous,Ferritin,0.8300000000000001,0.8598774460017604
+h63d_homozygous,Ferritin,0.84,0.870132845825716
+h63d_homozygous,Ferritin,0.85,0.8813490249847654
+h63d_homozygous,Ferritin,0.86,0.8890872290415252
+h63d_homozygous,Ferritin,0.87,0.8959677291153326
+h63d_homozygous,Ferritin,0.88,0.904728336380256
+h63d_homozygous,Ferritin,0.89,0.9163348209484891
+h63d_homozygous,Ferritin,0.9,0.922297379646557
+h63d_homozygous,Ferritin,0.91,0.9350213284582571
+h63d_homozygous,Ferritin,0.92,0.9423252136963289
+h63d_homozygous,Ferritin,0.93,0.9493011286861139
+h63d_homozygous,Ferritin,0.9400000000000001,0.9509993906154784
+h63d_homozygous,Ferritin,0.9500000000000001,0.9556569280121417
+h63d_homozygous,Ferritin,0.96,0.9654386204262053
+h63d_homozygous,Ferritin,0.97,0.9679095461410062
+h63d_homozygous,Ferritin,0.98,0.9760198485244189
+h63d_homozygous,Ferritin,0.99,0.9832141224862889
+h63d_homozygous,Ferritin,1.0,1.0
+h63d_homozygous,Age,0.0,0.0
+h63d_homozygous,Age,0.01,0.009725187238308647
+h63d_homozygous,Age,0.02,0.018531383302864125
+h63d_homozygous,Age,0.03,0.025441086855217388
+h63d_homozygous,Age,0.04,0.03768085662052774
+h63d_homozygous,Age,0.05,0.05144676290739452
+h63d_homozygous,Age,0.06,0.05610574272365862
+h63d_homozygous,Age,0.07,0.06310511882998171
+h63d_homozygous,Age,0.08,0.07402413162705666
+h63d_homozygous,Age,0.09,0.0859232175502742
+h63d_homozygous,Age,0.1,0.1005484460694698
+h63d_homozygous,Age,0.11,0.10138108692039217
+h63d_homozygous,Age,0.12,0.11424131627056675
+h63d_homozygous,Age,0.13,0.12577873444595147
+h63d_homozygous,Age,0.14,0.1389396709323583
+h63d_homozygous,Age,0.15,0.1407678244972577
+h63d_homozygous,Age,0.16,0.1486783525110227
+h63d_homozygous,Age,0.17,0.16539305301645393
+h63d_homozygous,Age,0.18,0.1762052755288587
+h63d_homozygous,Age,0.19,0.18950868372943336
+h63d_homozygous,Age,0.2,0.20754113345521027
+h63d_homozygous,Age,0.21,0.2171032906764168
+h63d_homozygous,Age,0.22,0.22772166361974402
+h63d_homozygous,Age,0.23,0.23322717213509092
+h63d_homozygous,Age,0.24,0.2376599634369287
+h63d_homozygous,Age,0.25,0.243144424131627
+h63d_homozygous,Age,0.26,0.2645475319926875
+h63d_homozygous,Age,0.27,0.2736368068251066
+h63d_homozygous,Age,0.28,0.2842726560459651
+h63d_homozygous,Age,0.29,0.288679041860029
+h63d_homozygous,Age,0.3,0.29488117001828157
+h63d_homozygous,Age,0.31,0.3034734917733089
+h63d_homozygous,Age,0.32,0.3217550274223035
+h63d_homozygous,Age,0.33,0.33625359101593105
+h63d_homozygous,Age,0.34,0.343879534301934
+h63d_homozygous,Age,0.35000000000000003,0.3572029250457039
+h63d_homozygous,Age,0.36,0.37742282580308173
+h63d_homozygous,Age,0.37,0.38951919561243137
+h63d_homozygous,Age,0.38,0.40428702010968914
+h63d_homozygous,Age,0.39,0.41195901087270276
+h63d_homozygous,Age,0.4,0.4168190127970749
+h63d_homozygous,Age,0.41000000000000003,0.4214460694698355
+h63d_homozygous,Age,0.42,0.4296160877513711
+h63d_homozygous,Age,0.43,0.4376173065204144
+h63d_homozygous,Age,0.44,0.4544371898668059
+h63d_homozygous,Age,0.45,0.4677842778793419
+h63d_homozygous,Age,0.46,0.47589981718464347
+h63d_homozygous,Age,0.47000000000000003,0.4802219900757379
+h63d_homozygous,Age,0.48,0.4987425482870996
+h63d_homozygous,Age,0.49,0.5119810536812365
+h63d_homozygous,Age,0.5,0.5279936014625228
+h63d_homozygous,Age,0.51,0.5377993601462524
+h63d_homozygous,Age,0.52,0.5520135805693392
+h63d_homozygous,Age,0.53,0.5626884013812716
+h63d_homozygous,Age,0.54,0.5711563071297989
+h63d_homozygous,Age,0.55,0.5756754011781434
+h63d_homozygous,Age,0.56,0.5849969530773921
+h63d_homozygous,Age,0.5700000000000001,0.596773308957953
+h63d_homozygous,Age,0.58,0.6040356489945155
+h63d_homozygous,Age,0.59,0.6142595978062158
+h63d_homozygous,Age,0.6,0.623400365630713
+h63d_homozygous,Age,0.61,0.6345865146789977
+h63d_homozygous,Age,0.62,0.6434721859493341
+h63d_homozygous,Age,0.63,0.6556969835466179
+h63d_homozygous,Age,0.64,0.6646435100548448
+h63d_homozygous,Age,0.65,0.6709506398537477
+h63d_homozygous,Age,0.66,0.6792378005906343
+h63d_homozygous,Age,0.67,0.6910420475319927
+h63d_homozygous,Age,0.68,0.6983546617915904
+h63d_homozygous,Age,0.6900000000000001,0.7020109689213894
+h63d_homozygous,Age,0.7000000000000001,0.7060764342299992
+h63d_homozygous,Age,0.71,0.7119469835466178
+h63d_homozygous,Age,0.72,0.7298520857570218
+h63d_homozygous,Age,0.73,0.7367786410725167
+h63d_homozygous,Age,0.74,0.7398657534994133
+h63d_homozygous,Age,0.75,0.7454486593540525
+h63d_homozygous,Age,0.76,0.7550274223034735
+h63d_homozygous,Age,0.77,0.7623400365630713
+h63d_homozygous,Age,0.78,0.7730789152955515
+h63d_homozygous,Age,0.79,0.7795795246800732
+h63d_homozygous,Age,0.8,0.7861060329067642
+h63d_homozygous,Age,0.81,0.7952468007312614
+h63d_homozygous,Age,0.8200000000000001,0.8109976495168452
+h63d_homozygous,Age,0.8300000000000001,0.8257877679906931
+h63d_homozygous,Age,0.84,0.8392132635693123
+h63d_homozygous,Age,0.85,0.8459171237050579
+h63d_homozygous,Age,0.86,0.853852418148579
+h63d_homozygous,Age,0.87,0.8628884826325411
+h63d_homozygous,Age,0.88,0.8665447897623401
+h63d_homozygous,Age,0.89,0.882536563071298
+h63d_homozygous,Age,0.9,0.8884826325411335
+h63d_homozygous,Age,0.91,0.8915944366777789
+h63d_homozygous,Age,0.92,0.906764168190128
+h63d_homozygous,Age,0.93,0.9180641885029455
+h63d_homozygous,Age,0.9400000000000001,0.926873857404022
+h63d_homozygous,Age,0.9500000000000001,0.9360146252285192
+h63d_homozygous,Age,0.96,0.9439414990859233
+h63d_homozygous,Age,0.97,0.9579730347349178
+h63d_homozygous,Age,0.98,0.9681849046748497
+h63d_homozygous,Age,0.99,0.9854993144424133
+h63d_homozygous,Age,1.0,1.0
+h63d_homozygous,Sex,0.0,0.0
+h63d_homozygous,Sex,0.01,0.0054844606946983
+h63d_homozygous,Sex,0.02,0.016453382084095
+h63d_homozygous,Sex,0.03,0.0201096892138939
+h63d_homozygous,Sex,0.04,0.0274223034734917
+h63d_homozygous,Sex,0.05,0.0402193784277879
+h63d_homozygous,Sex,0.06,0.0457038391224862
+h63d_homozygous,Sex,0.07,0.0475319926873857
+h63d_homozygous,Sex,0.08,0.056672760511883
+h63d_homozygous,Sex,0.09,0.0639853747714808
+h63d_homozygous,Sex,0.1,0.0712979890310786
+h63d_homozygous,Sex,0.11,0.0804387568555758
+h63d_homozygous,Sex,0.12,0.09316270566727611
+h63d_homozygous,Sex,0.13,0.0987202925045703
+h63d_homozygous,Sex,0.14,0.109689213893967
+h63d_homozygous,Sex,0.15,0.113345521023766
+h63d_homozygous,Sex,0.16,0.1279707495429616
+h63d_homozygous,Sex,0.17,0.1371115173674588
+h63d_homozygous,Sex,0.18,0.1425959780621572
+h63d_homozygous,Sex,0.19,0.1535648994515539
+h63d_homozygous,Sex,0.2,0.166483851310177
+h63d_homozygous,Sex,0.21,0.17936014625228572
+h63d_homozygous,Sex,0.22,0.1919561243144424
+h63d_homozygous,Sex,0.23,0.1974405850091407
+h63d_homozygous,Sex,0.24,0.206581352833638
+h63d_homozygous,Sex,0.25,0.2212065813528336
+h63d_homozygous,Sex,0.26,0.2358318098720292
+h63d_homozygous,Sex,0.27,0.2559414990859232
+h63d_homozygous,Sex,0.28,0.2705667276051188
+h63d_homozygous,Sex,0.29,0.2778793418647166
+h63d_homozygous,Sex,0.3,0.2870201096892139
+h63d_homozygous,Sex,0.31,0.2925045703839122
+h63d_homozygous,Sex,0.32,0.2961608775137112
+h63d_homozygous,Sex,0.33,0.3053016453382084
+h63d_homozygous,Sex,0.34,0.3162705667276051
+h63d_homozygous,Sex,0.35000000000000003,0.3327239488117002
+h63d_homozygous,Sex,0.36,0.3418647166361974
+h63d_homozygous,Sex,0.37,0.3546617915904936
+h63d_homozygous,Sex,0.38,0.3624558196221816
+h63d_homozygous,Sex,0.39,0.3747714808043875
+h63d_homozygous,Sex,0.4,0.38098720292504584
+h63d_homozygous,Sex,0.41000000000000003,0.3948811700182815
+h63d_homozygous,Sex,0.42,0.4040219378427788
+h63d_homozygous,Sex,0.43,0.413162705667276
+h63d_homozygous,Sex,0.44,0.4204753199268738
+h63d_homozygous,Sex,0.45,0.4301950030469228
+h63d_homozygous,Sex,0.46,0.4405850091407678
+h63d_homozygous,Sex,0.47000000000000003,0.453382084095064
+h63d_homozygous,Sex,0.48,0.4643510054844607
+h63d_homozygous,Sex,0.49,0.4753199268738574
+h63d_homozygous,Sex,0.5,0.4844606946983547
+h63d_homozygous,Sex,0.51,0.4972577696526508
+h63d_homozygous,Sex,0.52,0.5173674588665448
+h63d_homozygous,Sex,0.53,0.5338208409506399
+h63d_homozygous,Sex,0.54,0.5560146252285202
+h63d_homozygous,Sex,0.55,0.56672760511883
+h63d_homozygous,Sex,0.56,0.5843753808653263
+h63d_homozygous,Sex,0.5700000000000001,0.5993967093235837
+h63d_homozygous,Sex,0.58,0.6106032906764168
+h63d_homozygous,Sex,0.59,0.6124314442413162
+h63d_homozygous,Sex,0.6,0.6179159049360147
+h63d_homozygous,Sex,0.61,0.6229524680073124
+h63d_homozygous,Sex,0.62,0.6325411334552102
+h63d_homozygous,Sex,0.63,0.6398537477148081
+h63d_homozygous,Sex,0.64,0.6489945155393053
+h63d_homozygous,Sex,0.65,0.6529250457038389
+h63d_homozygous,Sex,0.66,0.6672760511882998
+h63d_homozygous,Sex,0.67,0.6727605118829981
+h63d_homozygous,Sex,0.68,0.6782449725776966
+h63d_homozygous,Sex,0.6900000000000001,0.6892138939670932
+h63d_homozygous,Sex,0.7000000000000001,0.696526508226691
+h63d_homozygous,Sex,0.71,0.70018281535649
+h63d_homozygous,Sex,0.72,0.7074954296160878
+h63d_homozygous,Sex,0.73,0.7184643510054844
+h63d_homozygous,Sex,0.74,0.7257769652650823
+h63d_homozygous,Sex,0.75,0.7294332723948812
+h63d_homozygous,Sex,0.76,0.7422303473491774
+h63d_homozygous,Sex,0.77,0.7443144424131644
+h63d_homozygous,Sex,0.78,0.753199268738574
+h63d_homozygous,Sex,0.79,0.7568555758683729
+h63d_homozygous,Sex,0.8,0.77257769652651
+h63d_homozygous,Sex,0.81,0.7824497257769653
+h63d_homozygous,Sex,0.8200000000000001,0.7879341864716636
+h63d_homozygous,Sex,0.8300000000000001,0.7993875685557589
+h63d_homozygous,Sex,0.84,0.8062157221206582
+h63d_homozygous,Sex,0.85,0.8173446069469835
+h63d_homozygous,Sex,0.86,0.8281535648994516
+h63d_homozygous,Sex,0.87,0.8318098720292505
+h63d_homozygous,Sex,0.88,0.8419378427787931
+h63d_homozygous,Sex,0.89,0.8482632541133455
+h63d_homozygous,Sex,0.9,0.870201096892139
+h63d_homozygous,Sex,0.91,0.8939670932358318
+h63d_homozygous,Sex,0.92,0.906764168190128
+h63d_homozygous,Sex,0.93,0.9085923217550276
+h63d_homozygous,Sex,0.9400000000000001,0.9140767824497258
+h63d_homozygous,Sex,0.9500000000000001,0.9263711151736757
+h63d_homozygous,Sex,0.96,0.9421572212065815
+h63d_homozygous,Sex,0.97,0.9561243144424132
+h63d_homozygous,Sex,0.98,0.9689213893967094
+h63d_homozygous,Sex,0.99,0.9908592321755028
+h63d_homozygous,Sex,1.0,1.0
+h63d_homozygous,Family history,0.0,0.0
+h63d_homozygous,Family history,0.01,0.0109689213893967
+h63d_homozygous,Family history,0.02,0.0201096892138939
+h63d_homozygous,Family history,0.03,0.0292504570383912
+h63d_homozygous,Family history,0.04,0.0383912248628884
+h63d_homozygous,Family history,0.05,0.0402193784277879
+h63d_homozygous,Family history,0.06,0.0420475319926873
+h63d_homozygous,Family history,0.07,0.0585009140767824
+h63d_homozygous,Family history,0.08,0.0658135283363802
+h63d_homozygous,Family history,0.09,0.0767824497257769
+h63d_homozygous,Family history,0.1,0.0859232175502742
+h63d_homozygous,Family history,0.11,0.093235831809872
+h63d_homozygous,Family history,0.12,0.1005484460694698
+h63d_homozygous,Family history,0.13,0.1188299817184643
+h63d_homozygous,Family history,0.14,0.1261425959780621
+h63d_homozygous,Family history,0.15,0.1352833638025594
+h63d_homozygous,Family history,0.16,0.1407678244972577
+h63d_homozygous,Family history,0.17,0.1553930530164533
+h63d_homozygous,Family history,0.18,0.1608775137111517
+h63d_homozygous,Family history,0.19,0.17786106032906815
+h63d_homozygous,Family history,0.2,0.1882998171846435
+h63d_homozygous,Family history,0.21,0.2047531992687385
+h63d_homozygous,Family history,0.22,0.2138939670932358
+h63d_homozygous,Family history,0.23,0.2248628884826325
+h63d_homozygous,Family history,0.24,0.2321755027422303
+h63d_homozygous,Family history,0.25,0.2468007312614259
+h63d_homozygous,Family history,0.26,0.2595978062157221
+h63d_homozygous,Family history,0.27,0.2669104204753199
+h63d_homozygous,Family history,0.28,0.2851919561243144
+h63d_homozygous,Family history,0.29,0.2979890310786106
+h63d_homozygous,Family history,0.3,0.3126142595978062
+h63d_homozygous,Family history,0.31,0.3254113345521023
+h63d_homozygous,Family history,0.32,0.3345521023765996
+h63d_homozygous,Family history,0.33,0.3345521023765996
+h63d_homozygous,Family history,0.34,0.340036563071298
+h63d_homozygous,Family history,0.35000000000000003,0.3455210237659963
+h63d_homozygous,Family history,0.36,0.3581718464351004
+h63d_homozygous,Family history,0.37,0.3692870201096892
+h63d_homozygous,Family history,0.38,0.376599634369287
+h63d_homozygous,Family history,0.39,0.3873354661791593
+h63d_homozygous,Family history,0.4,0.4003656307129798
+h63d_homozygous,Family history,0.41000000000000003,0.4128473491773312
+h63d_homozygous,Family history,0.42,0.4259597806215722
+h63d_homozygous,Family history,0.43,0.4405850091407678
+h63d_homozygous,Family history,0.44,0.45159049360146253
+h63d_homozygous,Family history,0.45,0.4570383912248629
+h63d_homozygous,Family history,0.46,0.4716636197440585
+h63d_homozygous,Family history,0.47000000000000003,0.4789762340036563
+h63d_homozygous,Family history,0.48,0.4844606946983547
+h63d_homozygous,Family history,0.49,0.4954296160877514
+h63d_homozygous,Family history,0.5,0.5082266910420475
+h63d_homozygous,Family history,0.51,0.5137111517367459
+h63d_homozygous,Family history,0.52,0.5319926873857403
+h63d_homozygous,Family history,0.53,0.5411334552102377
+h63d_homozygous,Family history,0.54,0.5513162705667282
+h63d_homozygous,Family history,0.55,0.5594149908592322
+h63d_homozygous,Family history,0.56,0.5648994515539305
+h63d_homozygous,Family history,0.5700000000000001,0.5740402193784278
+h63d_homozygous,Family history,0.58,0.5795246800731262
+h63d_homozygous,Family history,0.59,0.5850091407678245
+h63d_homozygous,Family history,0.6,0.5904936014625228
+h63d_homozygous,Family history,0.61,0.5996343692870201
+h63d_homozygous,Family history,0.62,0.6069469835466179
+h63d_homozygous,Family history,0.63,0.6197440585009141
+h63d_homozygous,Family history,0.64,0.6284216940889701
+h63d_homozygous,Family history,0.65,0.6409049360146254
+h63d_homozygous,Family history,0.66,0.6472212065813528
+h63d_homozygous,Family history,0.67,0.655679463741621
+h63d_homozygous,Family history,0.68,0.6709323583180987
+h63d_homozygous,Family history,0.6900000000000001,0.6873857404021938
+h63d_homozygous,Family history,0.7000000000000001,0.6910420475319927
+h63d_homozygous,Family history,0.71,0.6979311395490553
+h63d_homozygous,Family history,0.72,0.7148080438756855
+h63d_homozygous,Family history,0.73,0.7294332723948812
+h63d_homozygous,Family history,0.74,0.7404021937842779
+h63d_homozygous,Family history,0.75,0.7422303473491774
+h63d_homozygous,Family history,0.76,0.7550274223034735
+h63d_homozygous,Family history,0.77,0.7623400365630713
+h63d_homozygous,Family history,0.78,0.7714808043875686
+h63d_homozygous,Family history,0.79,0.7897623400365631
+h63d_homozygous,Family history,0.8,0.8095063985374774
+h63d_homozygous,Family history,0.81,0.8169195612431446
+h63d_homozygous,Family history,0.8200000000000001,0.8263254113345521
+h63d_homozygous,Family history,0.8300000000000001,0.8318098720292505
+h63d_homozygous,Family history,0.84,0.8409506398537477
+h63d_homozygous,Family history,0.85,0.8555758683729433
+h63d_homozygous,Family history,0.86,0.8574040219378428
+h63d_homozygous,Family history,0.87,0.8738574040219378
+h63d_homozygous,Family history,0.88,0.8756855575868373
+h63d_homozygous,Family history,0.89,0.8829981718464351
+h63d_homozygous,Family history,0.9,0.8884826325411335
+h63d_homozygous,Family history,0.91,0.8957952468007313
+h63d_homozygous,Family history,0.92,0.8994515539305301
+h63d_homozygous,Family history,0.93,0.9159049360146252
+h63d_homozygous,Family history,0.9400000000000001,0.9305301645338208
+h63d_homozygous,Family history,0.9500000000000001,0.939670932358318
+h63d_homozygous,Family history,0.96,0.9476416819012798
+h63d_homozygous,Family history,0.97,0.959780621572212
+h63d_homozygous,Family history,0.98,0.9670932358318098
+h63d_homozygous,Family history,0.99,0.979890310786106
+h63d_homozygous,Family history,1.0,1.0
+h63d_homozygous,All five combined,0.0,0.0
+h63d_homozygous,All five combined,0.01,0.01225124053277627
+h63d_homozygous,All five combined,0.02,0.02885191956124319
+h63d_homozygous,All five combined,0.03,0.03979064693047118
+h63d_homozygous,All five combined,0.04,0.06212258250745689
+h63d_homozygous,All five combined,0.05,0.07772699573430858
+h63d_homozygous,All five combined,0.06,0.09365630712979907
+h63d_homozygous,All five combined,0.07,0.10492687385740408
+h63d_homozygous,All five combined,0.08,0.11889396709323581
+h63d_homozygous,All five combined,0.09,0.13871297989031103
+h63d_homozygous,All five combined,0.1,0.15110226906118931
+h63d_homozygous,All five combined,0.11,0.1714844606946984
+h63d_homozygous,All five combined,0.12,0.18598203640410144
+h63d_homozygous,All five combined,0.13,0.19704337709822167
+h63d_homozygous,All five combined,0.14,0.21241243144424127
+h63d_homozygous,All five combined,0.15,0.22709584747975972
+h63d_homozygous,All five combined,0.16,0.24152102376599643
+h63d_homozygous,All five combined,0.17,0.2591013922092533
+h63d_homozygous,All five combined,0.18,0.28085048883236624
+h63d_homozygous,All five combined,0.19,0.2878288500043527
+h63d_homozygous,All five combined,0.2,0.2983168379247305
+h63d_homozygous,All five combined,0.21,0.3040903243279843
+h63d_homozygous,All five combined,0.22,0.3133043875685558
+h63d_homozygous,All five combined,0.23,0.32759232175502745
+h63d_homozygous,All five combined,0.24,0.34087751371115194
+h63d_homozygous,All five combined,0.25,0.35051988117001825
+h63d_homozygous,All five combined,0.26,0.36395452468007305
+h63d_homozygous,All five combined,0.27,0.3733348567946374
+h63d_homozygous,All five combined,0.28,0.38771095929952853
+h63d_homozygous,All five combined,0.29,0.3947797905933189
+h63d_homozygous,All five combined,0.3,0.40786106032906766
+h63d_homozygous,All five combined,0.31,0.4159433272394882
+h63d_homozygous,All five combined,0.32,0.4336288848263254
+h63d_homozygous,All five combined,0.33,0.44646513449986946
+h63d_homozygous,All five combined,0.34,0.4545085749107687
+h63d_homozygous,All five combined,0.35000000000000003,0.4625968486114738
+h63d_homozygous,All five combined,0.36,0.4777985182334263
+h63d_homozygous,All five combined,0.37,0.4877117611212676
+h63d_homozygous,All five combined,0.38,0.5009564899451554
+h63d_homozygous,All five combined,0.39,0.5099382998171847
+h63d_homozygous,All five combined,0.4,0.5211456429006703
+h63d_homozygous,All five combined,0.41000000000000003,0.53319012797075
+h63d_homozygous,All five combined,0.42,0.540146252285192
+h63d_homozygous,All five combined,0.43,0.5448803197142978
+h63d_homozygous,All five combined,0.44,0.5483340950639853
+h63d_homozygous,All five combined,0.45,0.5712751371115175
+h63d_homozygous,All five combined,0.46,0.5782189935533533
+h63d_homozygous,All five combined,0.47000000000000003,0.5849891181335423
+h63d_homozygous,All five combined,0.48,0.5913491773308958
+h63d_homozygous,All five combined,0.49,0.5994703165592226
+h63d_homozygous,All five combined,0.5,0.6110603290676417
+h63d_homozygous,All five combined,0.51,0.6226794802114729
+h63d_homozygous,All five combined,0.52,0.6296965265082267
+h63d_homozygous,All five combined,0.53,0.6373692870201096
+h63d_homozygous,All five combined,0.54,0.642497714808044
+h63d_homozygous,All five combined,0.55,0.6549725776965265
+h63d_homozygous,All five combined,0.56,0.6678634192368933
+h63d_homozygous,All five combined,0.5700000000000001,0.6761585923217551
+h63d_homozygous,All five combined,0.58,0.6946581352833638
+h63d_homozygous,All five combined,0.59,0.7095366576309652
+h63d_homozygous,All five combined,0.6,0.7185479237398799
+h63d_homozygous,All five combined,0.61,0.7247067119352311
+h63d_homozygous,All five combined,0.62,0.7295568903978411
+h63d_homozygous,All five combined,0.63,0.7381378950117524
+h63d_homozygous,All five combined,0.64,0.744035723918842
+h63d_homozygous,All five combined,0.65,0.7483295694877585
+h63d_homozygous,All five combined,0.66,0.7564040219378427
+h63d_homozygous,All five combined,0.67,0.7639970084759847
+h63d_homozygous,All five combined,0.68,0.7704679527408661
+h63d_homozygous,All five combined,0.6900000000000001,0.7800240546521698
+h63d_homozygous,All five combined,0.7000000000000001,0.7857333708339194
+h63d_homozygous,All five combined,0.71,0.795808957952468
+h63d_homozygous,All five combined,0.72,0.8011569600417863
+h63d_homozygous,All five combined,0.73,0.8142630255941499
+h63d_homozygous,All five combined,0.74,0.8252593692870202
+h63d_homozygous,All five combined,0.75,0.8323735527117612
+h63d_homozygous,All five combined,0.76,0.8398838584794064
+h63d_homozygous,All five combined,0.77,0.8543399059806739
+h63d_homozygous,All five combined,0.78,0.8672882388787325
+h63d_homozygous,All five combined,0.79,0.8717161791590494
+h63d_homozygous,All five combined,0.8,0.8738251424884396
+h63d_homozygous,All five combined,0.81,0.8756031654604193
+h63d_homozygous,All five combined,0.8200000000000001,0.8852494123792113
+h63d_homozygous,All five combined,0.8300000000000001,0.8938644673425296
+h63d_homozygous,All five combined,0.84,0.9023641819875133
+h63d_homozygous,All five combined,0.85,0.9094285327374907
+h63d_homozygous,All five combined,0.86,0.9166102985984156
+h63d_homozygous,All five combined,0.87,0.9193893377366278
+h63d_homozygous,All five combined,0.88,0.9262705667276051
+h63d_homozygous,All five combined,0.89,0.9349857175502743
+h63d_homozygous,All five combined,0.9,0.9419069047953875
+h63d_homozygous,All five combined,0.91,0.9472402003846245
+h63d_homozygous,All five combined,0.92,0.9490274223034735
+h63d_homozygous,All five combined,0.93,0.953779466948908
+h63d_homozygous,All five combined,0.9400000000000001,0.9635249085923216
+h63d_homozygous,All five combined,0.9500000000000001,0.9681707384632431
+h63d_homozygous,All five combined,0.96,0.9700252092754739
+h63d_homozygous,All five combined,0.97,0.9729931350968176
+h63d_homozygous,All five combined,0.98,0.9743159347834196
+h63d_homozygous,All five combined,0.99,0.9823076283862391
+h63d_homozygous,All five combined,1.0,1.0
